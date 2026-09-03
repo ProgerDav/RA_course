@@ -2,12 +2,12 @@ MAKEFLAGS  := -j 1
 INS         = source/beamerthememetropolis.ins
 PACKAGE_SRC = $(wildcard source/*.dtx)
 PACKAGE_STY = $(notdir $(PACKAGE_SRC:%.dtx=%.sty))
-DEMO_SRC    = demo/demo.tex demo/demo.bib
-DEMO_PDF    = demo/demo.pdf
+TARGET_SRC  = RA_course/lectures.tex RA_course/references.bib
+TARGET_PDF  = RA_course/lectures.pdf
 DOC_SRC     = doc/metropolistheme.dtx
 DOC_PDF     = doc/metropolistheme.pdf
 
-CTAN_CONTENT = README.md $(INS) $(PACKAGE_SRC) $(DOC_SRC) $(DOC_PDF) $(DEMO_SRC) $(DEMO_PDF)
+CTAN_CONTENT = README.md $(INS) $(PACKAGE_SRC) $(DOC_SRC) $(DOC_PDF) $(TARGET_SRC) $(TARGET_PDF)
 
 DESTDIR     ?= $(shell kpsewhich -var-value=TEXMFHOME)
 INSTALL_DIR  = $(DESTDIR)/tex/latex/metropolis
@@ -20,15 +20,15 @@ export TEXINPUTS:=$(shell pwd):$(shell pwd)/source:${TEXINPUTS}
 DOCKER_IMAGE = latex-image
 DOCKER_CONTAINER = latex-container
 
-# Host `make demo` delegates to Docker. Inside the container the same
-# target runs latexmk. /.dockerenv covers `docker run ... make demo`
+# Host `make lectures` delegates to Docker. Inside the container the same
+# target runs latexmk. /.dockerenv covers `docker run ... make lectures`
 # even when IN_DOCKER is not set.
 IN_DOCKER ?= 0
 ifneq ($(wildcard /.dockerenv),)
   IN_DOCKER := 1
 endif
 
-.PHONY: all sty doc demo demo-local clean install uninstall ctan clean-cache clean-sty ctan-version docker-run docker-build docker-rm
+.PHONY: all sty doc lectures lectures-local clean install uninstall ctan clean-cache clean-sty ctan-version docker-run docker-build docker-rm
 
 all: sty doc
 
@@ -37,19 +37,19 @@ sty: $(PACKAGE_STY)
 doc: $(DOC_PDF)
 
 ifeq ($(IN_DOCKER),1)
-demo: $(DEMO_PDF)
+lectures: $(TARGET_PDF)
 else
-demo: docker-build
+lectures: docker-build
 	docker run --rm \
 		-u "$(shell id -u):$(shell id -g)" \
 		-e HOME=/tmp \
 		-e IN_DOCKER=1 \
 		-v "$(CURDIR)":/data \
 		$(DOCKER_IMAGE) \
-		make demo
+		make lectures
 endif
 
-demo-local: $(DEMO_PDF)
+lectures-local: $(TARGET_PDF)
 
 clean: clean-cache clean-sty
 
@@ -88,9 +88,9 @@ $(DOC_PDF): $(DOC_SRC) $(PACKAGE_STY) | clean-cache $(CACHE_DIR)
 	@cd $(dir $(DOC_SRC)) && $(COMPILE_TEX) $(notdir $(DOC_SRC))
 	@cp $(CACHE_DIR)/$(notdir $(DOC_PDF)) $(DOC_PDF)
 
-$(DEMO_PDF): $(DEMO_SRC) $(PACKAGE_STY) | clean-cache $(CACHE_DIR)
-	@cd $(dir $(firstword $(DEMO_SRC))) && $(COMPILE_TEX) $(notdir $(firstword $(DEMO_SRC)))
-	@cp $(CACHE_DIR)/$(notdir $(DEMO_PDF)) $(DEMO_PDF)
+$(TARGET_PDF): $(TARGET_SRC) $(PACKAGE_STY) | clean-cache $(CACHE_DIR)
+	@cd $(dir $(firstword $(TARGET_SRC))) && $(COMPILE_TEX) $(notdir $(firstword $(TARGET_SRC)))
+	@cp $(CACHE_DIR)/$(notdir $(TARGET_PDF)) $(TARGET_PDF)
 
 docker-run: docker-build
 	docker run --rm -i -t \
