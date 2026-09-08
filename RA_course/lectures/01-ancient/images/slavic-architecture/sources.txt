@@ -1,0 +1,31 @@
+figure-01-semidugout-trzcinica.jpg
+Fetched at: 2026-09-03T23:49+04:00
+Fetched by: fetch-figures-agent
+Fetched URL: https://upload.wikimedia.org/wikipedia/commons/a/a9/02016_0036_Rekonstruktion_eines_slawischen_Grubenhauses_im_Freilichtmuseum_Trzcinica%2C_Beskiden.jpg
+Source page: https://commons.wikimedia.org/wiki/File:02016_0036_Rekonstruktion_eines_slawischen_Grubenhauses_im_Freilichtmuseum_Trzcinica,_Beskiden.jpg
+Source/Author Description: Reconstruction of a Slavic semi-dugout (Grubenhaus / полуземлянка) of c. 800–900 at the Trzcinica open-air museum (Carpathian Troy, Beskids, Poland). Photo by Wikimedia user Silar, 2016. 4550×3035 px.
+License: CC BY-SA 4.0
+
+figure-02-semidugout-interior.jpg
+Fetched at: 2026-09-03T23:49+04:00
+Fetched by: fetch-figures-agent
+Fetched URL: https://upload.wikimedia.org/wikipedia/commons/1/18/020210828_Typical_equipment_of_a_Slavic_house_from_the_period_of_their_migrations%2C_typical_half-dugout%2C_Slavic_settlement%2C_Archaeology.jpg
+Source page: https://commons.wikimedia.org/wiki/File:020210828_Typical_equipment_of_a_Slavic_house_from_the_period_of_their_migrations,_typical_half-dugout,_Slavic_settlement,_Archaeology.jpg
+Source/Author Description: Interior of a reconstructed typical Slavic half-dugout (полуземлянка) from the migration-period settlement type, with household equipment. Photo by Wikimedia user Silar. 2575×3433 px.
+License: CC BY-SA 4.0
+
+figure-03-gross-raden-log-cabin.jpg
+Fetched at: 2026-09-03T23:49+04:00
+Fetched by: fetch-figures-agent
+Fetched URL: https://upload.wikimedia.org/wikipedia/commons/0/07/Freilichtmuseum_Gro%C3%9F_Raden_-_Blockhaus.jpg
+Source page: https://commons.wikimedia.org/wiki/File:Freilichtmuseum_Gro%C3%9F_Raden_-_Blockhaus.jpg
+Source/Author Description: Reconstruction of a 10th-century West Slavic thatched log cabin (Blockhaus / сруб) at the Groß Raden Archaeological Open-Air Museum, Mecklenburg. Photo by Wolfgang Sauber (User:Xenophon), 2014. 4000×3000 px.
+License: CC BY-SA 4.0
+
+figure-04-gross-raden-palisade.jpg
+Fetched at: 2026-09-03T23:49+04:00
+Fetched by: fetch-figures-agent
+Fetched URL: https://upload.wikimedia.org/wikipedia/commons/1/11/Freilichtmuseum_Gro%C3%9F_Raden_-_Wall_und_Graben.jpg
+Source page: https://commons.wikimedia.org/wiki/File:Freilichtmuseum_Gro%C3%9F_Raden_-_Wall_und_Graben.jpg
+Source/Author Description: Reconstruction of 9th/10th-century Slavic defensive earthwork, ditch and wooden palisade (крепостная архитектура / городище) at Groß Raden Archaeological Open-Air Museum, Mecklenburg. Photo by Wolfgang Sauber (User:Xenophon), 2014. 4000×3000 px.
+License: CC BY-SA 4.0

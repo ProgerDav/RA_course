@@ -1,0 +1,34 @@
+zbruch-idol-swiatowid.jpg
+Fetched at: 2026-09-03T19:54 UTC+4
+Fetched by: fetch-figures-agent
+Fetched URL: https://upload.wikimedia.org/wikipedia/commons/1/14/Svetovid_%E2%80%93_Zbruch_Idol_%28MAK-63%29.jpg
+Source page: https://commons.wikimedia.org/wiki/File:Svetovid_%E2%80%93_Zbruch_Idol_(MAK-63).jpg
+Source/Author Description: Световид / Zbruch Idol (Збручский идол) — 9th–10th century Slavic limestone pagan pillar idol, 257 cm tall, found in the Zbruch river (Galicia) in 1848. Now at the Archaeological Museum in Kraków (accession MAK/63). Photographed and digitized by RDW MIC, Małopolska's Virtual Museums project. The idol features four-sided bas-reliefs depicting Slavic deities across three tiers (underworld, earth, heavens) and is one of the most important surviving monuments of pre-Christian Slavic belief.
+License: Public Domain (digitized by Małopolski Instytut Kultury Upload for Małopolska's Virtual Museums)
+
+pskov-idol.jpg
+Fetched at: 2026-09-03T19:57 UTC+4
+Fetched by: fetch-figures-agent
+Fetched URL: https://upload.wikimedia.org/wikipedia/commons/b/b4/Pskov_idol_1.jpg
+Source page: https://commons.wikimedia.org/wiki/File:Pskov_idol_1.jpg
+Source/Author Description: Каменная баба / Stone idol ("baba") found in 1897 between stream Promiezhitsa and a factory near Pskov. Dated 8th–10th century. Photograph from 1928–1929. Source: lostart.ru. Uploaded by Sławobóg (Wikimedia Commons, 2021).
+License: Public Domain in Russia (author died before January 1, 1952; PD-old-70)
+
+siverskiy-idol.jpg
+Fetched at: 2026-09-03T19:57 UTC+4
+Fetched by: fetch-figures-agent
+Fetched URL: https://upload.wikimedia.org/wikipedia/commons/5/5a/Siverskiy_idol.jpg
+Source page: https://commons.wikimedia.org/wiki/File:Siverskiy_idol.jpg
+Source/Author Description: Сиверский идол (Siverskiy idol) — Slavic pagan idol, 4th–9th century, ~1 m tall, found in village Siverovo, Sukhoverhovsky rural council. Now in the Museum of Peasant Life, Ferapontov Monastery. Photographed in 2009 by Shakko (Wikipedia user). Own work.
+License: Public Domain (faithful photographic reproduction of a 2D public domain work of art; CC0 / PD-Art)
+
+zbruch-idol-sides.jpg
+Fetched at: 2026-09-03T19:57 UTC+4
+Fetched by: fetch-figures-agent
+Fetched URL: https://upload.wikimedia.org/wikipedia/commons/0/0c/%D0%A1%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D1%8B_%D0%B7%D0%B1%D1%80%D1%83%D1%87%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B8%D0%B4%D0%BE%D0%BB%D0%B0.jpg
+Source page: https://commons.wikimedia.org/wiki/File:%D0%A1%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D1%8B_%D0%B7%D0%B1%D1%80%D1%83%D1%87%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B8%D0%B4%D0%BE%D0%BB%D0%B0.jpg
+Source/Author Description: Стороны Збручского идола — diagram/drawing showing all four sides of the Zbruch Idol with schematic depictions of the bas-reliefs across three tiers. Useful for understanding the iconographic program of the idol. From Wikimedia Commons.
+License: Public Domain
+
+---
+NOTE: The specific idol mentioned in the lecture plan as "Акудинское изваяние" most likely refers to the "Акулининский идол" (Akulinino Idol), a small limestone bust (~35×25×14 cm) found in 1908 near villages Akulinino and Dolmatovo, Podolsky uyezd (now Domodedovsky district, Moscow Oblast). It is displayed in hall №8 of the State Historical Museum (GIM), Moscow, among Vyatichi antiquities. No freely licensed photograph is available on Wikimedia Commons. See: Ershov I.N. "К проблеме атрибуции Акулининского идола" // Arkheologiya Podmoskovya, Issue 5, IAE RAN, Moscow, 2009, pp. 89–96.

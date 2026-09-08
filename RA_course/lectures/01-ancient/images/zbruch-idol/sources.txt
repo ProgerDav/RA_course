@@ -1,0 +1,31 @@
+zbruch-idol-museum-photo.jpg
+Fetched at: 2026-09-03T19:53+04:00
+Fetched by: fetch-figures-agent
+Fetched URL: https://upload.wikimedia.org/wikipedia/commons/1/14/Svetovid_%E2%80%93_Zbruch_Idol_%28MAK-63%29.jpg
+Source page: https://commons.wikimedia.org/wiki/File:Svetovid_%E2%80%93_Zbruch_Idol_(MAK-63).jpg
+Source/Author Description: High-resolution museum photograph of the Zbruch Idol (Svetovid). Digitized by RDW MIC, Małopolska's Virtual Museums project for the Archaeological Museum of Kraków (accession MAK/63). 4279×4279 px.
+License: Public Domain (released by Archaeological Museum in Kraków)
+
+zbruch-idol-krakow-museum-45.jpg
+Fetched at: 2026-09-03T19:54+04:00
+Fetched by: fetch-figures-agent
+Fetched URL: https://upload.wikimedia.org/wikipedia/commons/b/b4/O98_Idol_von_Sbrutsch_mit_Darstellung_von_Unterwelt%2C_Erde_und_des_Himmels%2C_zirka_10._Jh._n._Chr..JPG
+Source page: https://commons.wikimedia.org/wiki/File:O98_Idol_von_Sbrutsch_mit_Darstellung_von_Unterwelt,_Erde_und_des_Himmels,_zirka_10._Jh._n._Chr..JPG
+Source/Author Description: Photograph of the Zbruch Idol at the Archaeological Museum in Kraków, showing the idol with its three-tier cosmological representation (underworld, earth, heavens). Photo by Wikimedia user Silar, 2013. 800×1208 px.
+License: CC BY-SA 3.0
+
+zbruch-idol-four-sides-diagram.jpg
+Fetched at: 2026-09-03T19:54+04:00
+Fetched by: fetch-figures-agent
+Fetched URL: https://upload.wikimedia.org/wikipedia/commons/0/0c/%D0%A1%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D1%8B_%D0%B7%D0%B1%D1%80%D1%83%D1%87%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B8%D0%B4%D0%BE%D0%BB%D0%B0.jpg
+Source page: https://commons.wikimedia.org/wiki/File:%D0%A1%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D1%8B_%D0%B7%D0%B1%D1%80%D1%83%D1%87%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B8%D0%B4%D0%BE%D0%BB%D0%B0.jpg
+Source/Author Description: Diagram showing all four sides of the Zbruch Idol with carved reliefs. Created by Прозоров Сергей (Prozorov Sergey). 475×454 px.
+License: Public Domain (released by author)
+
+zbruch-idol-side-view.jpg
+Fetched at: 2026-09-03T19:54+04:00
+Fetched by: fetch-figures-agent
+Fetched URL: https://upload.wikimedia.org/wikipedia/commons/3/30/Zbruch_Idol.jpg
+Source page: https://commons.wikimedia.org/wiki/File:Zbruch_Idol.jpg
+Source/Author Description: Historical illustration of the Zbruch Idol (sometimes identified as Światowid), depicting a Slavic pagan sculpture found in Ukraine. Published 1917. 259×464 px.
+License: Public Domain (published before 1931)

@@ -1,0 +1,31 @@
+large-rhyton-gim.jpg
+Fetched at: 2026-09-03T23:50+04:00
+Fetched by: fetch-figures-agent
+Fetched URL: https://upload.wikimedia.org/wikipedia/commons/4/41/Rhyton_Black_Grave_GIM_Zlatnik.jpg
+Source page: https://commons.wikimedia.org/wiki/File:Rhyton_Black_Grave_GIM_Zlatnik.jpg
+Source/Author Description: Photograph of a 10th-century aurochs drinking horn (rhyton) with silver chased and gilded mount from the Chernaya Mogila (Black Grave) kurgan, Chernihiv. Displayed at the State Historical Museum (GIM), Moscow. Photo by Wikimedia user Лапоть, 24 December 2012 (own work).
+License: CC0 1.0 Universal (Public Domain Dedication)
+
+overlay-chase-detail.jpg
+Fetched at: 2026-09-03T23:50+04:00
+Fetched by: fetch-figures-agent
+Fetched URL: https://cdn-s-static.arzamas.academy/uploads/ckeditor/pictures/2196/content_92-3.jpg
+Source page: https://commons.wikimedia.org/wiki/File:Rhyton_Black_Grave_01.jpg
+Source/Author Description: Detail of the silver overlay (оковка) of the large rhyton from Chernaya Mogila, showing two archers and a bird in the hunting/combat frieze often linked to the bylina of Ivan Godinovich. 10th-century metalwork; unknown photographer. File also published on Wikimedia Commons (uploaded from this Arzamas Academy image).
+License: Public domain (PD-US, published before 1931; 10th-century work)
+
+rhyton-and-overlay-kutepov.jpg
+Fetched at: 2026-09-03T23:53+04:00
+Fetched by: fetch-figures-agent
+Fetched URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Kutepov%27s_hunting_V.1_-_page_049_detail.jpg/1280px-Kutepov%27s_hunting_V.1_-_page_049_detail.jpg
+Source page: https://commons.wikimedia.org/wiki/File:Kutepov%27s_hunting_V.1_-_page_049_detail.jpg
+Source/Author Description: Historical plate from N. I. Kutepov, Великокняжеская, царская и императорская охота на Руси, vol. 1 (St. Petersburg, 1896): the aurochs horn found in Chernaya Mogila shown with its detached silver mount. Illustrations associated with N. S. Samokish and others. Wikimedia 1280px thumbnail of the original scan.
+License: Public domain (published 1896; author's life + 70 years; PD-US before 1931)
+
+kurgan-chernaya-mogila.jpg
+Fetched at: 2026-09-03T23:53+04:00
+Fetched by: fetch-figures-agent
+Fetched URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/%D0%9A%D1%83%D1%80%D0%B3%D0%B0%D0%BD_%D0%A7%D1%91%D1%80%D0%BD%D0%B0%D1%8F_%D0%BC%D0%BE%D0%B3%D0%B8%D0%BB%D0%B0.jpg/1280px-%D0%9A%D1%83%D1%80%D0%B3%D0%B0%D0%BD_%D0%A7%D1%91%D1%80%D0%BD%D0%B0%D1%8F_%D0%BC%D0%BE%D0%B3%D0%B8%D0%BB%D0%B0.jpg
+Source page: https://commons.wikimedia.org/wiki/File:%D0%9A%D1%83%D1%80%D0%B3%D0%B0%D0%BD_%D0%A7%D1%91%D1%80%D0%BD%D0%B0%D1%8F_%D0%BC%D0%BE%D0%B3%D0%B8%D0%BB%D0%B0.jpg
+Source/Author Description: The Chernaya Mogila (Black Grave / Чорна Могила) princely kurgan in Chernihiv, excavated by D. Ya. Samokvasov in 1872–73. Photo by I. V. Testov (Тестов И.В.), June. Wikimedia 1280px thumbnail of the original 3648×2736 photograph.
+License: CC BY-SA 3.0

@@ -1,0 +1,39 @@
+arkona-artistic-reconstruction.jpg
+Fetched at: 2026-09-03T23:49+04:00
+Fetched by: fetch-figures-agent
+Fetched URL: https://upload.wikimedia.org/wikipedia/commons/6/64/Arkona_artistic_reconstruction.jpg
+Source page: https://commons.wikimedia.org/wiki/File:Arkona_artistic_reconstruction.jpg
+Source/Author Description: Artistic reconstruction of the sanctuary city of Arkona (Jaromarsburg) on Cape Arkona, Rügen, showing concentric ramparts, wooden houses, and the red-roofed Temple of Svantevit on the cliff-top inner precinct. Created by Wikimedia user Віщун, 2023. 2400×1350 px.
+License: CC BY-SA 4.0
+
+arkona-temple-schuchhardt.png
+Fetched at: 2026-09-03T23:49+04:00
+Fetched by: fetch-figures-agent
+Fetched URL: https://upload.wikimedia.org/wikipedia/commons/d/d3/Arkona_temple_%28Carl_Schuchhardt%29.png
+Source page: https://commons.wikimedia.org/wiki/File:Arkona_temple_(Carl_Schuchhardt).png
+Source/Author Description: Archaeological plan of the alleged remains of the Temple of Svetovit at Arkona according to Carl Schuchhardt, from Arkona, Rethra, Vineta. Ortsuntersuchungen und Ausgrabungen (1926). Shows a rectangular temple footprint with post settings, scale, and the cliff-cut that destroyed part of the site. 920×920 px.
+License: Public Domain (author died 1943; published 1926)
+
+svantevit-according-to-saxo.jpg
+Fetched at: 2026-09-03T23:49+04:00
+Fetched by: fetch-figures-agent
+Fetched URL: https://upload.wikimedia.org/wikipedia/commons/a/ab/Svetovid_%C5%9Awi%C4%99towid_wg_Saxo_Grammaticus.jpg
+Source page: https://commons.wikimedia.org/wiki/File:Svetovid_%C5%9Awi%C4%99towid_wg_Saxo_Grammaticus.jpg
+Source/Author Description: Reconstruction drawing of the cult statue of Svantevit (Świętowit) after the description by Saxo Grammaticus: four-headed idol holding a drinking horn. Created by Wikimedia user Bornholm, 2023. 1513×3683 px.
+License: CC BY-SA 4.0
+
+rethra-reconstruction.jpg
+Fetched at: 2026-09-03T23:49+04:00
+Fetched by: fetch-figures-agent
+Fetched URL: https://upload.wikimedia.org/wikipedia/commons/c/c2/RekonstruktionRethra.jpg
+Source page: https://commons.wikimedia.org/wiki/File:RekonstruktionRethra.jpg
+Source/Author Description: Hypothetical reconstruction of the Rethra stronghold (Rethraburg) in the 10th century, showing a palisaded island settlement with a central temple building, perimeter houses, and wooden bridges. Illustration by Ronny Krüger, Neubrandenburg, 2011. 996×574 px.
+License: CC0 1.0 (Public Domain Dedication)
+
+jaromarsburg-ramparts.jpg
+Fetched at: 2026-09-03T23:50+04:00
+Fetched by: fetch-figures-agent
+Fetched URL: https://upload.wikimedia.org/wikipedia/commons/7/78/Jaromarsburg_Kap_Arkona_-msu-2024-5915-.jpg
+Source page: https://commons.wikimedia.org/wiki/File:Jaromarsburg_Kap_Arkona_-msu-2024-5915-.jpg
+Source/Author Description: Photograph of the surviving earthen ramparts of the Jaromarsburg at Cape Arkona, Rügen, the site of the Temple of Svantevit. Photo by Matthias Süßen, 29 December 2023. 6000×4000 px.
+License: CC BY-SA 4.0

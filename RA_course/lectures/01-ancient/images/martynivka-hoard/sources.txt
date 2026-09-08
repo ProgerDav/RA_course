@@ -1,0 +1,23 @@
+figure-01-anthropomorphic-plaque.jpg
+Fetched at: 2026-09-03T19:54+04:00
+Fetched by: fetch-figures-agent
+Fetched URL: https://upload.wikimedia.org/wikipedia/commons/3/3b/Anty_bljashka.jpg
+Source page: https://commons.wikimedia.org/wiki/File:Anty_bljashka.jpg
+Source/Author Description: Silver sewn-on plaque from a 6th–7th-century hoard, found near the village of Martynivka in Porossia. Unknown author, transferred from Ukrainian Wikipedia.
+License: Public domain (author's life + 70 years)
+
+figure-02-dancing-men-pair.jpg
+Fetched at: 2026-09-03T19:54+04:00
+Fetched by: fetch-figures-agent
+Fetched URL: https://upload.wikimedia.org/wikipedia/commons/d/d5/Anty%2C_bljashky.jpg
+Source page: https://commons.wikimedia.org/wiki/File:Anty,_bljashky.jpg
+Source/Author Description: Pair of anthropomorphic silver plaques ("dancing men"), height 7.6 and 7.5 cm, from the Martynivka hoard found in 1909. Museum of Historical Treasures of Ukraine, Kyiv. Unknown author.
+License: Public domain (PD-Art, faithful reproduction of 2D public domain work)
+
+figure-03-hoard-british-museum.jpg
+Fetched at: 2026-09-03T19:54+04:00
+Fetched by: fetch-figures-agent
+Fetched URL: https://upload.wikimedia.org/wikipedia/commons/3/35/Slavic_silver_hoard.JPG
+Source page: https://commons.wikimedia.org/wiki/File:Slavic_silver_hoard.JPG
+Source/Author Description: Part of Martynivka Hoard from Ukraine, about 550-650 AD, on display in the British Museum, London. Photo by Wikimedia user Völkerwanderer, own work.
+License: CC0 1.0 Universal (Public Domain Dedication)
