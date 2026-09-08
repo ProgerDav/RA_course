@@ -1,8 +1,16 @@
 MAKEFLAGS  := -j 1
+
+# Recursively collect lecture sources and assets so edits to included files
+# trigger a rebuild of the combined PDF.
+rwildcard = $(foreach d,$(wildcard $1*),$(call rwildcard,$d/,$2) $(filter $(subst *,%,$2),$d))
+LECTURE_INPUTS := $(foreach ext,tex bib png jpg jpeg pdf eps,$(call rwildcard,RA_course/lectures/,*.$(ext)))
+FONT_FILES    := $(foreach ext,ttf otf txt,$(wildcard RA_course/fonts/*.$(ext)))
+COURSE_ASSETS := $(wildcard RA_course/*.jpg) $(wildcard RA_course/*.jpeg) $(wildcard RA_course/*.png)
+
 INS         = source/beamerthememetropolis.ins
 PACKAGE_SRC = $(wildcard source/*.dtx)
 PACKAGE_STY = $(notdir $(PACKAGE_SRC:%.dtx=%.sty))
-TARGET_SRC  = RA_course/lectures.tex RA_course/references.bib
+TARGET_SRC  = RA_course/lectures.tex RA_course/references.bib $(LECTURE_INPUTS) $(FONT_FILES) $(COURSE_ASSETS)
 TARGET_PDF  = RA_course/lectures.pdf
 DOC_SRC     = doc/metropolistheme.dtx
 DOC_PDF     = doc/metropolistheme.pdf
