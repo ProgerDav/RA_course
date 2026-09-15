@@ -1,0 +1,39 @@
+family-portrait.png
+Fetched at: 2026-09-08T18:45+04:00
+Fetched by: fetch-figures-agent
+Fetched URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/%D0%98%D0%B7%D0%B1%D0%BE%D1%80%D0%BD%D0%B8%D0%BA_%D0%A1%D0%B2%D1%8F%D1%82%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D0%B0%2C_XI_%D0%B2%D0%B5%D0%BA._%D0%9A%D0%BD%D1%8F%D0%B6%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B5%D0%BC%D1%8C%D1%8F.png/1920px-%D0%98%D0%B7%D0%B1%D0%BE%D1%80%D0%BD%D0%B8%D0%BA_%D0%A1%D0%B2%D1%8F%D1%82%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D0%B0%2C_XI_%D0%B2%D0%B5%D0%BA._%D0%9A%D0%BD%D1%8F%D0%B6%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B5%D0%BC%D1%8C%D1%8F.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail
+Source page: https://commons.wikimedia.org/wiki/File:%D0%98%D0%B7%D0%B1%D0%BE%D1%80%D0%BD%D0%B8%D0%BA_%D0%A1%D0%B2%D1%8F%D1%82%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D0%B0,_XI_%D0%B2%D0%B5%D0%BA._%D0%9A%D0%BD%D1%8F%D0%B6%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B5%D0%BC%D1%8C%D1%8F.png
+Source/Author Description: Izbornik of Sviatoslav, 1073, GIM Syn. 1043, folio 1 verso: family portrait of Sviatoslav Yaroslavich with princess and sons. Kyiv princely manuscript.
+License: Public domain (PD-Art)
+
+opening-savior.jpg
+Fetched at: 2026-09-08T18:45+04:00
+Fetched by: fetch-figures-agent
+Fetched URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Svyatoslav%27s_Miscellanies_03_by_shakko.jpg/1920px-Svyatoslav%27s_Miscellanies_03_by_shakko.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail
+Source page: https://commons.wikimedia.org/wiki/File:Svyatoslav%27s_Miscellanies_03_by_shakko.jpg
+Source/Author Description: Original GIM manuscript of Izbornik 1073 photographed by Shakko: folio 1v family portrait and folio 2 Christ on the throne. The Savior leaf is heavily worn.
+License: CC BY-SA 4.0
+
+frontispiece-fathers.jpg
+Fetched at: 2026-09-08T18:45+04:00
+Fetched by: fetch-figures-agent
+Fetched URL: https://upload.wikimedia.org/wikipedia/commons/c/c1/Izbornyk_1073.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original
+Source page: https://commons.wikimedia.org/wiki/File:Izbornyk_1073.jpg
+Source/Author Description: Izbornik of Sviatoslav 1073, GIM Syn. 1043: architectural frontispiece with Church Fathers, peacocks and enamel-style ornament.
+License: Public domain (PD-Art)
+
+headpiece.jpg
+Fetched at: 2026-09-08T18:45+04:00
+Fetched by: fetch-figures-agent
+Fetched URL: https://upload.wikimedia.org/wikipedia/commons/c/c2/Izbornik_page.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original
+Source page: https://commons.wikimedia.org/wiki/File:Izbornik_page.jpg
+Source/Author Description: Izbornik of Sviatoslav 1073, GIM: leaf with enamel-style square headpiece and two-column ustav.
+License: Public domain (PD-Art)
+
+facsimile-spread.jpg
+Fetched at: 2026-09-08T18:45+04:00
+Fetched by: fetch-figures-agent
+Fetched URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Svyatoslav%27s_Miscellanies_faksimile.jpg/1920px-Svyatoslav%27s_Miscellanies_faksimile.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail
+Source page: https://commons.wikimedia.org/wiki/File:Svyatoslav%27s_Miscellanies_faksimile.jpg
+Source/Author Description: Facsimile of Izbornik 1073 (GIM): opening with ustav, headpieces and initials. Photo Anntinomy.
+License: CC BY-SA 4.0

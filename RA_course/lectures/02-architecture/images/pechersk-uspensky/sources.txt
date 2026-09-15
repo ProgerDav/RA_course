@@ -1,0 +1,31 @@
+plan-1886.png
+Fetched at: 2026-09-08T17:55+04:00
+Fetched by: fetch-figures-agent
+Fetched URL: https://upload.wikimedia.org/wikipedia/commons/a/aa/Uspen%C5%9Bka_katedra_Kyjevo-Pe%C4%8Der%C5%9Bkoho_monasty%C5%95a._Pozemna_proekcija.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original
+Source page: https://commons.wikimedia.org/wiki/File:Uspen%C5%9Bka_katedra_Kyjevo-Pe%C4%8Der%C5%9Bkoho_monasty%C5%95a._Pozemna_proekcija.png
+Source/Author Description: Plan of the Great Church of the Kyiv-Pechersk Monastery published in Киевская старина, 1886: dark hatching marks the 11th-c. three-nave church, light hatching the 18th-c. Baroque additions.
+License: Public domain
+
+model-11c.jpg
+Fetched at: 2026-09-08T17:55+04:00
+Fetched by: fetch-figures-agent
+Fetched URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/The_elements_of_the_Ruins_of_the_Cathedral._03.Model_of_XI_st.jpg/1920px-The_elements_of_the_Ruins_of_the_Cathedral._03.Model_of_XI_st.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail
+Source page: https://commons.wikimedia.org/wiki/File:The_elements_of_the_Ruins_of_the_Cathedral._03.Model_of_XI_st.jpg
+Source/Author Description: Museum model of the Dormition Cathedral in its 11th-century form: six-pier cross-in-square church with a single dome. Photo by Vi Ko of the Lavra museum exhibit, 2023.
+License: CC BY-SA 4.0
+
+historic-1912.jpg
+Fetched at: 2026-09-08T17:55+04:00
+Fetched by: fetch-figures-agent
+Fetched URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_%D0%BF%D1%80%D0%B8%D0%B1%D0%BB%D0%B8%D0%B7%D0%BD%D0%BE_1912.jpg/1920px-%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_%D0%BF%D1%80%D0%B8%D0%B1%D0%BB%D0%B8%D0%B7%D0%BD%D0%BE_1912.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail
+Source page: https://commons.wikimedia.org/wiki/File:%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_%D0%BF%D1%80%D0%B8%D0%B1%D0%BB%D0%B8%D0%B7%D0%BD%D0%BE_1912.jpg
+Source/Author Description: Dormition Cathedral of the Kyiv-Pechersk Lavra c. 1912 in its 18th-c. Ukrainian Baroque form (seven domes), later destroyed in 1941. Photograph by Gudshon and Gubchevsky.
+License: Public domain
+
+exterior-current.jpg
+Fetched at: 2026-09-08T17:55+04:00
+Fetched by: fetch-figures-agent
+Fetched URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/%D0%A1%D0%BE%D0%B1%D0%BE%D1%80_%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_2021-2.jpg/1920px-%D0%A1%D0%BE%D0%B1%D0%BE%D1%80_%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_2021-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail
+Source page: https://commons.wikimedia.org/wiki/File:%D0%A1%D0%BE%D0%B1%D0%BE%D1%80_%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_2021-2.jpg
+Source/Author Description: Rebuilt Dormition Cathedral (consecrated 2000), reproducing 18th-c. Ukrainian Baroque rather than the austere single-dome church of 1073–1078. Photo by Serhii Ventseslavskyi, 2021.
+License: CC BY-SA 4.0

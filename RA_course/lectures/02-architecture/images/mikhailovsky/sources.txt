@@ -1,0 +1,23 @@
+historic-c1900.jpg
+Fetched at: 2026-09-08T17:55+04:00
+Fetched by: fetch-figures-agent
+Fetched URL: https://upload.wikimedia.org/wikipedia/commons/5/55/Kyiv-Michael-monastery.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original
+Source page: https://commons.wikimedia.org/wiki/File:Kyiv-Michael-monastery.jpg
+Source/Author Description: St Michael’s Golden-Domed Monastery before the Soviet demolition: Baroque appearance of Sviatopolk’s cathedral on the site of Izyaslav’s 11th-c. St Demetrius monastery. Postcard, Granbergs Konstindustri, early 1900s.
+License: Public domain
+
+mosaic-eucharist.jpg
+Fetched at: 2026-09-08T17:55+04:00
+Fetched by: fetch-figures-agent
+Fetched URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/%D0%9C%D0%BE%D0%B7%D0%B0%D1%97%D0%BA%D0%B8_%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D0%BE%D0%B2%D0%B5%D1%80%D1%85%D0%BE%D0%B3%D0%BE_%D1%81%D0%BE%D0%B1%D0%BE%D1%80%D1%83.jpg/1920px-%D0%9C%D0%BE%D0%B7%D0%B0%D1%97%D0%BA%D0%B8_%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D0%BE%D0%B2%D0%B5%D1%80%D1%85%D0%BE%D0%B3%D0%BE_%D1%81%D0%BE%D0%B1%D0%BE%D1%80%D1%83.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail
+Source page: https://commons.wikimedia.org/wiki/File:%D0%9C%D0%BE%D0%B7%D0%B0%D1%97%D0%BA%D0%B8_%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D0%BE%D0%B2%D0%B5%D1%80%D1%85%D0%BE%D0%B3%D0%BE_%D1%81%D0%BE%D0%B1%D0%BE%D1%80%D1%83.jpg
+Source/Author Description: Eucharist (Communion of the Apostles) mosaic from the sanctuary of St Michael’s Golden-Domed Cathedral, c. 1108–1113; removed in 1934, now in the Sophia of Kyiv reserve. Photo by Rasal Hague.
+License: CC BY-SA 4.0 (photograph); mosaic public domain
+
+mosaic-demetrius.jpg
+Fetched at: 2026-09-08T17:55+04:00
+Fetched by: fetch-figures-agent
+Fetched URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/%D0%A1%D0%B2._%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9_%D0%A1%D0%BE%D0%BB%D1%83%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_-_Google_Art_Project.jpg/1920px-%D0%A1%D0%B2._%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9_%D0%A1%D0%BE%D0%BB%D1%83%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail
+Source page: https://commons.wikimedia.org/wiki/File:%D0%A1%D0%B2._%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9_%D0%A1%D0%BE%D0%BB%D1%83%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_-_Google_Art_Project.jpg
+Source/Author Description: Mosaic of St Demetrius of Thessaloniki from a pier of St Michael’s Cathedral — patron image of Izyaslav-Dmitry; now in the Tretyakov Gallery. Mosaic 1108–1113; photograph Google Arts & Culture / Tretyakov Gallery.
+License: Public domain (PD-Art)

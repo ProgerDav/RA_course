@@ -1,0 +1,39 @@
+dome-drum-apostles.jpg
+Fetched at: 2026-09-08T18:20+04:00
+Fetched by: fetch-figures-agent
+Fetched URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Interior_of_Saint_Sophia_Cathedral_20190505.jpg/1920px-Interior_of_Saint_Sophia_Cathedral_20190505.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail
+Source page: https://commons.wikimedia.org/wiki/File:Interior_of_Saint_Sophia_Cathedral_20190505.jpg
+Source/Author Description: View into the main dome of Saint Sophia, Kyiv: apostles in the drum piers between windows and Evangelists on the pendentives. Photo by Suicasmo, 2019. Except Paul, the apostle figures are 19th-c. oil restorations.
+License: CC BY-SA 4.0
+
+apostle-paul.jpg
+Fetched at: 2026-09-08T18:20+04:00
+Fetched by: fetch-figures-agent
+Fetched URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/The_Apostle_Paul_%28detail%29_-_Google_Art_Project.jpg/1920px-The_Apostle_Paul_%28detail%29_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail
+Source page: https://commons.wikimedia.org/wiki/File:The_Apostle_Paul_(detail)_-_Google_Art_Project.jpg
+Source/Author Description: Mosaic of the Apostle Paul in a drum pier of the main dome, Saint Sophia, Kyiv — the only surviving original 11th-c. apostle mosaic in the drum. Photograph via Google Cultural Institute / National Reserve Sophia of Kyiv.
+License: Public domain (PD-Art)
+
+evangelist-mark.jpg
+Fetched at: 2026-09-08T18:20+04:00
+Fetched by: fetch-figures-agent
+Fetched URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/St._Mark_the_Evangelist_-_Google_Art_Project.jpg/1920px-St._Mark_the_Evangelist_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail
+Source page: https://commons.wikimedia.org/wiki/File:St._Mark_the_Evangelist_-_Google_Art_Project.jpg
+Source/Author Description: Mosaic of Evangelist Mark on a pendentive of Saint Sophia, Kyiv — the only fully preserved Evangelist mosaic of the dome system. Photograph via Google Cultural Institute.
+License: Public domain (PD-Art)
+
+annunciation-gabriel.jpg
+Fetched at: 2026-09-08T18:20+04:00
+Fetched by: fetch-figures-agent
+Fetched URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/The_Annunciation._The_Archangel_Gabriel_-_Google_Art_Project.jpg/1920px-The_Annunciation._The_Archangel_Gabriel_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail
+Source page: https://commons.wikimedia.org/wiki/File:The_Annunciation._The_Archangel_Gabriel_-_Google_Art_Project.jpg
+Source/Author Description: Archangel Gabriel from the Annunciation mosaic on the northern eastern pier of the under-dome square, Saint Sophia, Kyiv, 11th c. Photograph via Google Cultural Institute.
+License: Public domain (PD-Art)
+
+annunciation-virgin.jpg
+Fetched at: 2026-09-08T18:20+04:00
+Fetched by: fetch-figures-agent
+Fetched URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/The_Annunciation._The_Virgin_Mary_-_Google_Art_Project.jpg/1920px-The_Annunciation._The_Virgin_Mary_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail
+Source page: https://commons.wikimedia.org/wiki/File:The_Annunciation._The_Virgin_Mary_-_Google_Art_Project.jpg
+Source/Author Description: The Virgin with yarn from the Annunciation mosaic on the southern eastern pier of Saint Sophia, Kyiv, 11th c. Photograph via Google Cultural Institute.
+License: Public domain (PD-Art)

@@ -1,0 +1,63 @@
+plan.jpg
+Fetched at: 2026-09-08T17:55+04:00
+Fetched by: fetch-figures-agent
+Fetched URL: https://upload.wikimedia.org/wikipedia/commons/e/ed/%D0%9F%D0%BB%D0%B0%D0%BD_%D0%A1%D0%B2%D1%8F%D1%82%D0%BE%D0%B9_%D0%A1%D0%BE%D1%84%D0%B8%D0%B8_%D0%9D%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%BE%D0%B9.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original
+Source page: https://commons.wikimedia.org/wiki/File:%D0%9F%D0%BB%D0%B0%D0%BD_%D0%A1%D0%B2%D1%8F%D1%82%D0%BE%D0%B9_%D0%A1%D0%BE%D1%84%D0%B8%D0%B8_%D0%9D%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%BE%D0%B9.jpg
+Source/Author Description: Plan of Novgorod Sophia. I. Tolstoy and N. Kondakov, Русские древности в памятниках искусства, вып. 6, St Petersburg, 1899. Five-aisle cross-in-square church with galleries, three apses and a stair tower.
+License: Public domain
+
+exterior-detinets.jpg
+Fetched at: 2026-09-08T17:55+04:00
+Fetched by: fetch-figures-agent
+Fetched URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Russia_3207_-_St._Sophia_Cathedral_%284138551353%29.jpg/1920px-Russia_3207_-_St._Sophia_Cathedral_%284138551353%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail
+Source page: https://commons.wikimedia.org/wiki/File:Russia_3207_-_St._Sophia_Cathedral_(4138551353).jpg
+Source/Author Description: Saint Sophia Cathedral, 1045–1050, in the centre of the Novgorod detinets: limestone walls, lead helmet-shaped side domes and a gilded central dome. Photo by Dennis G. Jarvis.
+License: CC BY-SA 2.0
+
+exterior-east.jpg
+Fetched at: 2026-09-08T17:55+04:00
+Fetched by: fetch-figures-agent
+Fetched URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/%D0%A1%D0%BE%D1%84%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%A1%D0%BE%D0%B1%D0%BE%D1%80_%D0%B2_%D0%94%D0%B5%D1%82%D0%B8%D0%BD%D1%86%D0%B5_%28%D0%B2%D0%B8%D0%B4_%D1%81_%D0%B2%D0%BE%D1%81%D1%82%D0%BE%D0%BA%D0%B0%29.jpg/1920px-%D0%A1%D0%BE%D1%84%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%A1%D0%BE%D0%B1%D0%BE%D1%80_%D0%B2_%D0%94%D0%B5%D1%82%D0%B8%D0%BD%D1%86%D0%B5_%28%D0%B2%D0%B8%D0%B4_%D1%81_%D0%B2%D0%BE%D1%81%D1%82%D0%BE%D0%BA%D0%B0%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail
+Source page: https://commons.wikimedia.org/wiki/File:%D0%A1%D0%BE%D1%84%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%A1%D0%BE%D0%B1%D0%BE%D1%80_%D0%B2_%D0%94%D0%B5%D1%82%D0%B8%D0%BD%D1%86%D0%B5_(%D0%B2%D0%B8%D0%B4_%D1%81_%D0%B2%D0%BE%D1%81%D1%82%D0%BE%D0%BA%D0%B0).jpg
+Source/Author Description: East façade from the detinets: three-apse volume in local limestone and the vertical silhouette of five helmets. Photo by Kamenskiyan.
+License: CC BY-SA 4.0
+
+helmet-domes.jpg
+Fetched at: 2026-09-08T17:55+04:00
+Fetched by: fetch-figures-agent
+Fetched URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/%D0%9A%D1%83%D0%BF%D0%BE%D0%BB%D0%B0_%D0%A1%D0%BE%D1%84%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%81%D0%BE%D0%B1%D0%BE%D1%80%D0%B0%2C_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B8%D0%B9_%D0%9D%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4.jpg/1920px-%D0%9A%D1%83%D0%BF%D0%BE%D0%BB%D0%B0_%D0%A1%D0%BE%D1%84%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%81%D0%BE%D0%B1%D0%BE%D1%80%D0%B0%2C_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B8%D0%B9_%D0%9D%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail
+Source page: https://commons.wikimedia.org/wiki/File:%D0%9A%D1%83%D0%BF%D0%BE%D0%BB%D0%B0_%D0%A1%D0%BE%D1%84%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%81%D0%BE%D0%B1%D0%BE%D1%80%D0%B0,_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B8%D0%B9_%D0%9D%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%B4.jpg
+Source/Author Description: Domes of Novgorod Sophia: four lead helmets and the gilded central dome (gilded under Archbishop Ioann, 1408). Photo by Buzov Vladimir.
+License: CC BY-SA 4.0
+
+magdeburg-doors.jpg
+Fetched at: 2026-09-08T17:55+04:00
+Fetched by: fetch-figures-agent
+Fetched URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Velikiy_Novgorod_-_P%C5%82ock_Door_-_2025-08_-_p1.jpg/1920px-Velikiy_Novgorod_-_P%C5%82ock_Door_-_2025-08_-_p1.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail
+Source page: https://commons.wikimedia.org/wiki/File:Velikiy_Novgorod_-_P%C5%82ock_Door_-_2025-08_-_p1.jpg
+Source/Author Description: Magdeburg (Płock) bronze doors, mid-12th century, on the west portal of Novgorod Sophia: biblical reliefs and the craftsman Avraam. Photo by Александр Сигачёв, 2025.
+License: CC BY-SA 4.0
+
+interior.jpg
+Fetched at: 2026-09-08T17:55+04:00
+Fetched by: fetch-figures-agent
+Fetched URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Sophia_inside.jpg/1920px-Sophia_inside.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail
+Source page: https://commons.wikimedia.org/wiki/File:Sophia_inside.jpg
+Source/Author Description: Interior of Novgorod Sophia: tall piers, narrow bays, view toward the central drum — a more vertical volume than Kyiv Sophia. Photo by Дар Ветер.
+License: CC BY-SA 3.0
+
+fresco-constantine-helena.jpg
+Fetched at: 2026-09-08T17:55+04:00
+Fetched by: fetch-figures-agent
+Fetched URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD_%D0%B8_%D0%95%D0%BB%D0%B5%D0%BD%D0%B0_%28%D0%A1%D0%BE%D1%84%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80%29.jpg/1920px-%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD_%D0%B8_%D0%95%D0%BB%D0%B5%D0%BD%D0%B0_%28%D0%A1%D0%BE%D1%84%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail
+Source page: https://commons.wikimedia.org/wiki/File:%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD_%D0%B8_%D0%95%D0%BB%D0%B5%D0%BD%D0%B0_(%D0%A1%D0%BE%D1%84%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80).jpg
+Source/Author Description: Constantine and Helena — one of the oldest surviving fresco fragments in Novgorod Sophia, at the south entrance, connected with the consecration of the church. 11th c.; photo by Lumaca.
+License: CC BY-SA 4.0
+
+icon-peter-paul.jpg
+Fetched at: 2026-09-08T17:55+04:00
+Fetched by: fetch-figures-agent
+Fetched URL: https://upload.wikimedia.org/wikipedia/commons/3/34/Ancient_icon_of_sts_peter_%26_paul.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original
+Source page: https://commons.wikimedia.org/wiki/File:Ancient_icon_of_sts_peter_%26_paul.jpg
+Source/Author Description: Icon of the Apostles Peter and Paul, c. 1050, from Saint Sophia, Novgorod (now Novgorod Museum). One of the oldest icons associated with the cathedral. After V. D. Sarabianov, E. S. Smirnova, История древнерусской живописи, 2007.
+License: Public domain

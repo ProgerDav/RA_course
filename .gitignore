@@ -41,3 +41,16 @@
 *.sty
 doc/metropolistheme.pdf
 RA_course/lectures.pdf
+
+# Fetched figures for slides (including topic subfolders)
+RA_course/lectures/**/images/**/*.jpg
+RA_course/lectures/**/images/**/*.jpeg
+RA_course/lectures/**/images/**/*.png
+RA_course/lectures/**/images/**/*.pdf
+RA_course/lectures/**/images/**/*.eps
+RA_course/lectures/**/images/**/*.svg
+RA_course/lectures/**/images/**/*.gif
+RA_course/lectures/**/images/**/*.bmp
+RA_course/lectures/**/images/**/*.tiff
+RA_course/lectures/**/images/**/*.ico
+RA_course/lectures/**/images/**/*.webp

@@ -1,0 +1,71 @@
+plan.jpg
+Fetched at: 2026-09-08T17:55+04:00
+Fetched by: fetch-figures-agent
+Fetched URL: https://upload.wikimedia.org/wikipedia/commons/d/d2/Plan_of_Saint_Sofia_Cathedral_in_Kyiv%2C_Ukraine.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original
+Source page: https://commons.wikimedia.org/wiki/File:Plan_of_Saint_Sofia_Cathedral_in_Kyiv,_Ukraine.jpg
+Source/Author Description: Plan of Saint Sophia Cathedral in Kyiv (11th-c. core). After P. A. Rappoport, Русская архитектура X–XIII вв., Nauka, 1982.
+License: CC BY-SA 4.0
+
+reconstruction-11c.jpg
+Fetched at: 2026-09-08T17:55+04:00
+Fetched by: fetch-figures-agent
+Fetched URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Sofia_Kiev_11th.JPG/1920px-Sofia_Kiev_11th.JPG?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail
+Source page: https://commons.wikimedia.org/wiki/File:Sofia_Kiev_11th.JPG
+Source/Author Description: Photograph of a scholarly reconstruction model of the original 11th-century appearance of Saint Sophia, Kyiv. Photo by Wikimedia user Xristoupolitis.
+License: CC BY-SA 4.0
+
+exterior-east.jpg
+Fetched at: 2026-09-08T17:55+04:00
+Fetched by: fetch-figures-agent
+Fetched URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Kyiv-Saint_Sophia_Cathedral-east_view.jpg/1920px-Kyiv-Saint_Sophia_Cathedral-east_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail
+Source page: https://commons.wikimedia.org/wiki/File:Kyiv-Saint_Sophia_Cathedral-east_view.jpg
+Source/Author Description: East façade of Saint Sophia Cathedral, Kyiv, showing the row of apses of the 11th-c. five-aisle core under later Baroque plaster and pear-shaped domes. Photo by Viacheslav Galievskyi (Galvm).
+License: CC BY-SA 4.0
+
+exterior-south.jpg
+Fetched at: 2026-09-08T17:55+04:00
+Fetched by: fetch-figures-agent
+Fetched URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Kyiv-Saint_Sophia_Cathedral-south_view.jpg/1920px-Kyiv-Saint_Sophia_Cathedral-south_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail
+Source page: https://commons.wikimedia.org/wiki/File:Kyiv-Saint_Sophia_Cathedral-south_view.jpg
+Source/Author Description: South façade in Ukrainian Baroque form: raised galleries, buttresses, stucco, and multiple gilded pear-shaped domes over the 11th-c. core. Photo by Viacheslav Galievskyi (Galvm).
+License: CC BY-SA 4.0
+
+interior-nave.jpg
+Fetched at: 2026-09-08T17:55+04:00
+Fetched by: fetch-figures-agent
+Fetched URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Kyiv-Saint_Sophia_Cathedral-interior-01.jpg/1920px-Kyiv-Saint_Sophia_Cathedral-interior-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail
+Source page: https://commons.wikimedia.org/wiki/File:Kyiv-Saint_Sophia_Cathedral-interior-01.jpg
+Source/Author Description: Interior of the central nave: 11th-c. cross-in-square space with mosaics in the sanctuary and dome and frescoes on walls and piers. Photo by Viacheslav Galievskyi (Galvm).
+License: CC BY-SA 4.0
+
+mosaic-oranta.jpg
+Fetched at: 2026-09-08T17:55+04:00
+Fetched by: fetch-figures-agent
+Fetched URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Oranta-Kyiv.jpg/1920px-Oranta-Kyiv.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail
+Source page: https://commons.wikimedia.org/wiki/File:Oranta-Kyiv.jpg
+Source/Author Description: Mosaic of the Theotokos Orans (Нерушимая Стена) in the conch of the main apse, first half of the 11th century, height c. 6 m. Photograph via Google Arts & Culture / National Reserve Sophia of Kyiv.
+License: Public domain (PD-Art)
+
+mosaic-pantocrator.jpg
+Fetched at: 2026-09-08T17:55+04:00
+Fetched by: fetch-figures-agent
+Fetched URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/%D0%9F%D0%B0%D0%BD%D1%82%D0%BE%D0%BA%D1%80%D0%B0%D1%82%D0%BE%D1%80_%2820210903%29.jpg/1920px-%D0%9F%D0%B0%D0%BD%D1%82%D0%BE%D0%BA%D1%80%D0%B0%D1%82%D0%BE%D1%80_%2820210903%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail
+Source page: https://commons.wikimedia.org/wiki/File:%D0%9F%D0%B0%D0%BD%D1%82%D0%BE%D0%BA%D1%80%D0%B0%D1%82%D0%BE%D1%80_(20210903).jpg
+Source/Author Description: Christ Pantocrator mosaic in the central dome, surrounded by archangels (one original 11th-c. archangel; others completed in oil by M. Vrubel, 19th c.). Photo by Rasal Hague.
+License: CC BY-SA 4.0
+
+mosaic-eucharist.jpg
+Fetched at: 2026-09-08T17:55+04:00
+Fetched by: fetch-figures-agent
+Fetched URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/%D0%84%D0%B2%D1%85%D0%B0%D1%80%D0%B8%D1%81%D1%82%D1%96%D1%8F_%D0%A1%D0%BE%D1%84%D1%96%D1%8F.jpg/1920px-%D0%84%D0%B2%D1%85%D0%B0%D1%80%D0%B8%D1%81%D1%82%D1%96%D1%8F_%D0%A1%D0%BE%D1%84%D1%96%D1%8F.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail
+Source page: https://commons.wikimedia.org/wiki/File:%D0%84%D0%B2%D1%85%D0%B0%D1%80%D0%B8%D1%81%D1%82%D1%96%D1%8F_%D0%A1%D0%BE%D1%84%D1%96%D1%8F.jpg
+Source/Author Description: Communion of the Apostles (Eucharist) mosaic in the sanctuary apse of Saint Sophia, Kyiv, first half of the 11th century. Photo by Dmitri Semenovsky.
+License: CC BY-SA 4.0
+
+fresco-yaroslav-family.jpg
+Fetched at: 2026-09-08T17:55+04:00
+Fetched by: fetch-figures-agent
+Fetched URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Princely_group_portrait._South_wall_of_the_nave._-_Google_Art_Project.jpg/1920px-Princely_group_portrait._South_wall_of_the_nave._-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail
+Source page: https://commons.wikimedia.org/wiki/File:Princely_group_portrait._South_wall_of_the_nave._-_Google_Art_Project.jpg
+Source/Author Description: Surviving fragment of the ktitor fresco on the south wall of the nave: four members of the princely family (traditionally children of Yaroslav the Wise). 11th c.; photograph via Google Cultural Institute / St. Sophia of Kyiv.
+License: Public domain (PD-Art)

@@ -1,0 +1,55 @@
+anastasis.jpg
+Fetched at: 2026-09-08T18:20+04:00
+Fetched by: fetch-figures-agent
+Fetched URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/The_Descent_of_Christ_into_Hell_-_Google_Art_Project.jpg/1920px-The_Descent_of_Christ_into_Hell_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail
+Source page: https://commons.wikimedia.org/wiki/File:The_Descent_of_Christ_into_Hell_-_Google_Art_Project.jpg
+Source/Author Description: Fresco of the Descent into Hell (Anastasis) from the Christological cycle of Saint Sophia, Kyiv, 11th c. Photograph via Google Cultural Institute.
+License: Public domain (PD-Art)
+
+doubting-thomas.jpg
+Fetched at: 2026-09-08T18:20+04:00
+Fetched by: fetch-figures-agent
+Fetched URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/The_Doubting_of_Thomas_-_Google_Art_Project.jpg/1920px-The_Doubting_of_Thomas_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail
+Source page: https://commons.wikimedia.org/wiki/File:The_Doubting_of_Thomas_-_Google_Art_Project.jpg
+Source/Author Description: Fresco of the Doubting of Thomas from the cycle of Christ’s earthly life, Saint Sophia, Kyiv, 11th c. Photograph via Google Cultural Institute.
+License: Public domain (PD-Art)
+
+nativity-virgin.jpg
+Fetched at: 2026-09-08T18:20+04:00
+Fetched by: fetch-figures-agent
+Fetched URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/The_Nativity_of_the_Virgin_-_Google_Art_Project.jpg/1920px-The_Nativity_of_the_Virgin_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail
+Source page: https://commons.wikimedia.org/wiki/File:The_Nativity_of_the_Virgin_-_Google_Art_Project.jpg
+Source/Author Description: Fresco of the Nativity of the Virgin from the Theotokos cycle (chapel of Joachim and Anna), Saint Sophia, Kyiv, 11th c. Photograph via Google Cultural Institute.
+License: Public domain (PD-Art)
+
+visitation.jpg
+Fetched at: 2026-09-08T18:20+04:00
+Fetched by: fetch-figures-agent
+Fetched URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/The_Visitation_-_Google_Art_Project.jpg/1920px-The_Visitation_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail
+Source page: https://commons.wikimedia.org/wiki/File:The_Visitation_-_Google_Art_Project.jpg
+Source/Author Description: Fresco of the Visitation (Mary and Elizabeth) from the life of the Theotokos, Saint Sophia, Kyiv, 11th c. Photograph via Google Cultural Institute.
+License: Public domain (PD-Art)
+
+archangel-michael.jpg
+Fetched at: 2026-09-08T18:20+04:00
+Fetched by: fetch-figures-agent
+Fetched URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/The_Archangel_Michael_-_Google_Art_Project_%28LwE83yRr6_HWQQ%29.jpg/1920px-The_Archangel_Michael_-_Google_Art_Project_%28LwE83yRr6_HWQQ%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail
+Source page: https://commons.wikimedia.org/wiki/File:The_Archangel_Michael_-_Google_Art_Project_(LwE83yRr6_HWQQ).jpg
+Source/Author Description: Half-length fresco of Archangel Michael in the conch of the Michael chapel, Saint Sophia, Kyiv, 11th c. Photograph via Google Cultural Institute.
+License: Public domain (PD-Art)
+
+archangel-balaam.jpg
+Fetched at: 2026-09-08T18:20+04:00
+Fetched by: fetch-figures-agent
+Fetched URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/The_Appearance_of_the_Archangel_to_Balaam_-_Google_Art_Project.jpg/1920px-The_Appearance_of_the_Archangel_to_Balaam_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail
+Source page: https://commons.wikimedia.org/wiki/File:The_Appearance_of_the_Archangel_to_Balaam_-_Google_Art_Project.jpg
+Source/Author Description: Fresco of the Appearance of the Archangel to Balaam from the Michael cycle in a stair tower of Saint Sophia, Kyiv, 11th c. Photograph via Google Cultural Institute.
+License: Public domain (PD-Art)
+
+yaroslav-family-westerveld.jpg
+Fetched at: 2026-09-08T18:20+04:00
+Fetched by: fetch-figures-agent
+Fetched URL: https://upload.wikimedia.org/wikipedia/commons/f/f4/Yaroslav_the_Wise_and_his_family_%28fresco%29_by_Westerveld.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original
+Source page: https://commons.wikimedia.org/wiki/File:Yaroslav_the_Wise_and_his_family_(fresco)_by_Westerveld.jpg
+Source/Author Description: Abraham van Westerveld, 1651: drawing of the full ktitor composition of Yaroslav the Wise and his family, known today only in a fragment on the south wall. Published after Ya. I. Smirnov, 1908.
+License: Public domain (PD-Art)

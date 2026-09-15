@@ -1,0 +1,31 @@
+westerveld-1651.jpg
+Fetched at: 2026-09-08T17:55+04:00
+Fetched by: fetch-figures-agent
+Fetched URL: https://upload.wikimedia.org/wikipedia/commons/e/e0/The_Golgen_Gate_from_the_west_by_Westerveld.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original
+Source page: https://commons.wikimedia.org/wiki/File:The_Golgen_Gate_from_the_west_by_Westerveld.jpg
+Source/Author Description: Golden Gate of Kyiv from the west, 1651: ruins of the gateway and remains of the gate-church of the Annunciation; Sophia in the distance. Abraham van Westerveld; copy published by Ya. I. Smirnov, 1908.
+License: Public domain
+
+timm-1858.jpg
+Fetched at: 2026-09-08T17:55+04:00
+Fetched by: fetch-figures-agent
+Fetched URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Zoloti_virita%2C_1858.jpg/1920px-Zoloti_virita%2C_1858.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail
+Source page: https://commons.wikimedia.org/wiki/File:Zoloti_virita,_1858.jpg
+Source/Author Description: Excavated ruins of the Golden Gate after 1832: two parallel 11th-c. passage walls in mixed masonry. Lithograph by Vasily Timm, 1858.
+License: Public domain (lithograph); scan CC BY 4.0
+
+reconstruction-1982.jpg
+Fetched at: 2026-09-08T17:55+04:00
+Fetched by: fetch-figures-agent
+Fetched URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Golden_Gate_Kiev_2018_G1.jpg/1920px-Golden_Gate_Kiev_2018_G1.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail
+Source page: https://commons.wikimedia.org/wiki/File:Golden_Gate_Kiev_2018_G1.jpg
+Source/Author Description: South (field) façade of the 1982 pavilion: hypothetical reconstruction of Yaroslav’s gate with the Church of the Annunciation above. Photo by George Chernilevsky, 2018.
+License: Public domain (PD-self)
+
+original-masonry.jpg
+Fetched at: 2026-09-08T17:55+04:00
+Fetched by: fetch-figures-agent
+Fetched URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/2017-05-18_Interior_of_Golden_Gate_%28Kiev%29.jpg/1920px-2017-05-18_Interior_of_Golden_Gate_%28Kiev%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail
+Source page: https://commons.wikimedia.org/wiki/File:2017-05-18_Interior_of_Golden_Gate_(Kiev).jpg
+Source/Author Description: Inside the 1982 pavilion: authentic 11th-century passage walls (opus mixtum, plinthos) — the only surviving parts of Yaroslav’s gate. Photo by Maksym Kozlenko, 2017.
+License: CC BY-SA 4.0

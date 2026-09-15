@@ -1,0 +1,23 @@
+sarcophagus.jpg
+Fetched at: 2026-09-08T18:45+04:00
+Fetched by: fetch-figures-agent
+Fetched URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/%D0%A1%D0%B0%D1%80%D0%BA%D0%BE%D1%84%D0%B0%D0%B3_%D0%AF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D0%B0_%D0%9C%D1%83%D0%B4%D1%80%D0%BE%D0%B3%D0%BE.jpg/1920px-%D0%A1%D0%B0%D1%80%D0%BA%D0%BE%D1%84%D0%B0%D0%B3_%D0%AF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D0%B0_%D0%9C%D1%83%D0%B4%D1%80%D0%BE%D0%B3%D0%BE.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail
+Source page: https://commons.wikimedia.org/wiki/File:%D0%A1%D0%B0%D1%80%D0%BA%D0%BE%D1%84%D0%B0%D0%B3_%D0%AF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D0%B0_%D0%9C%D1%83%D0%B4%D1%80%D0%BE%D0%B3%D0%BE.jpg
+Source/Author Description: Marble sarcophagus traditionally of Yaroslav the Wise in the north gallery of Saint Sophia, Kyiv. Proconnesian marble; vine, palm, birds, crosses in relief. Photo Petar Milošević.
+License: CC BY-SA 3.0
+
+sarcophagus-angle.jpg
+Fetched at: 2026-09-08T18:45+04:00
+Fetched by: fetch-figures-agent
+Fetched URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/%D0%A1%D0%B0%D1%80%D0%BA%D0%BE%D1%84%D0%B0%D0%B3_%D0%AF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D0%B0.jpg/1920px-%D0%A1%D0%B0%D1%80%D0%BA%D0%BE%D1%84%D0%B0%D0%B3_%D0%AF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D0%B0.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail
+Source page: https://commons.wikimedia.org/wiki/File:%D0%A1%D0%B0%D1%80%D0%BA%D0%BE%D1%84%D0%B0%D0%B3_%D0%AF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D0%B0.jpg
+Source/Author Description: Another view of Yaroslav’s sarcophagus in Sophia of Kyiv, showing the pitched lid with acroteria and carved sides.
+License: CC BY-SA 4.0
+
+sarcophagus-drawing.jpg
+Fetched at: 2026-09-08T18:45+04:00
+Fetched by: fetch-figures-agent
+Fetched URL: https://upload.wikimedia.org/wikipedia/commons/e/e7/Tomb_of_Yaroslav_I_the_Wise_drawing.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original
+Source page: https://commons.wikimedia.org/wiki/File:Tomb_of_Yaroslav_I_the_Wise_drawing.jpg
+Source/Author Description: 1820 drawing of Yaroslav’s sarcophagus (Maksym Berlynsky, Краткое описание Киева): the relief program of vines, palms and Christian symbols.
+License: Public domain

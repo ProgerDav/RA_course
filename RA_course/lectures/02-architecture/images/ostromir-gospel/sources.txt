@@ -1,0 +1,31 @@
+evangelist-mark.jpg
+Fetched at: 2026-09-08T18:45+04:00
+Fetched by: fetch-figures-agent
+Fetched URL: https://upload.wikimedia.org/wikipedia/commons/a/a9/Ostromir_Gospel.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original
+Source page: https://commons.wikimedia.org/wiki/File:Ostromir_Gospel.jpg
+Source/Author Description: Ostromir Gospel (1056–1057), National Library of Russia F.п.I.5, folio 126: Evangelist Mark in a quatrefoil, lion symbol. Deacon Gregory. Scan from nlr.ru.
+License: Public domain (PD-Art)
+
+evangelist-luke.jpg
+Fetched at: 2026-09-08T18:45+04:00
+Fetched by: fetch-figures-agent
+Fetched URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Ostromir_luke.jpg/1920px-Ostromir_luke.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail
+Source page: https://commons.wikimedia.org/wiki/File:Ostromir_luke.jpg
+Source/Author Description: Ostromir Gospel (1056–1057), NLR F.п.I.5, folio 87 verso: Evangelist Luke with the ox. High-res exhibition photograph of the original (Shakko / Aleksei m).
+License: Public domain (PD-Art)
+
+folio-initial.jpg
+Fetched at: 2026-09-08T18:45+04:00
+Fetched by: fetch-figures-agent
+Fetched URL: https://upload.wikimedia.org/wikipedia/commons/9/92/Ostromir_Gospel_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original
+Source page: https://commons.wikimedia.org/wiki/File:Ostromir_Gospel_4.jpg
+Source/Author Description: Ostromir Gospel (1056–1057), NLR F.п.I.5: two-column ustav with a large decorated initial. Photo of the original by Shakko, Sainte Russie exhibition, 2011.
+License: CC BY-SA 3.0
+
+zastavka.jpg
+Fetched at: 2026-09-08T18:45+04:00
+Fetched by: fetch-figures-agent
+Fetched URL: https://upload.wikimedia.org/wikipedia/commons/2/26/Ostromir_Gospel_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original
+Source page: https://commons.wikimedia.org/wiki/File:Ostromir_Gospel_1.jpg
+Source/Author Description: Ostromir Gospel (1056–1057), NLR F.п.I.5, folio 2: ornamental headpiece (заставка) and initial at the start of the readings.
+License: Public domain (PD-Art)

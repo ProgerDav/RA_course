@@ -1,0 +1,47 @@
+kolty-ryasna-tithes.jpg
+Fetched at: 2026-09-08T18:45+04:00
+Fetched by: fetch-figures-agent
+Fetched URL: https://upload.wikimedia.org/wikipedia/commons/b/bd/Klad_desyatinnaya.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original
+Source page: https://commons.wikimedia.org/wiki/File:Klad_desyatinnaya.jpg
+Source/Author Description: Gold kolty and ryasna with cloisonné enamel from the hoard found by the Church of the Tithes, Kyiv, first half of the 12th c. GIM. Photo shakko.
+License: CC BY-SA 3.0
+
+ryasna-tithes.jpg
+Fetched at: 2026-09-08T18:45+04:00
+Fetched by: fetch-figures-agent
+Fetched URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Ryasna_Kiev_12c_GIM_Zlatnik.jpg/1920px-Ryasna_Kiev_12c_GIM_Zlatnik.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail
+Source page: https://commons.wikimedia.org/wiki/File:Ryasna_Kiev_12c_GIM_Zlatnik.jpg
+Source/Author Description: Gold ryasna with enamel medallions from the 1840s Tithes Church hoard, Kyiv, first half of the 12th c. GIM inv. 53091. Photo Лапоть.
+License: CC0
+
+kolty-chernihiv.jpg
+Fetched at: 2026-09-08T18:45+04:00
+Fetched by: fetch-figures-agent
+Fetched URL: https://upload.wikimedia.org/wikipedia/commons/c/ce/Kolty_%28Hermitage%29_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original
+Source page: https://commons.wikimedia.org/wiki/File:Kolty_(Hermitage)_01.JPG
+Source/Author Description: Gold cloisonné kolty from the 1887 hoard on Aleksandrovskaya Square, Chernihiv, 12th c. Kyiv workshop. Hermitage 1021/9–10. Photo shakko.
+License: CC BY-SA 3.0
+
+diadem-kiev.jpg
+Fetched at: 2026-09-08T18:45+04:00
+Fetched by: fetch-figures-agent
+Fetched URL: https://upload.wikimedia.org/wikipedia/commons/7/73/Diademe_%28Kiev%2C12th_c.%2C_GRM%29_by_shakko.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original
+Source page: https://commons.wikimedia.org/wiki/File:Diademe_(Kiev,12th_c.,_GRM)_by_shakko.jpg
+Source/Author Description: Gold diadem with pearls and cloisonné enamel from a Kyiv hoard of 1889, 11th–12th c. Russian Museum БК 2756. Photo shakko. Not the Deesis diadem of the Museum of Historical Treasures of Ukraine.
+License: CC BY-SA 3.0
+
+bracelet-ryazan.jpg
+Fetched at: 2026-09-08T18:45+04:00
+Fetched by: fetch-figures-agent
+Fetched URL: https://upload.wikimedia.org/wikipedia/commons/d/da/Bracelet_Razan.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original
+Source page: https://commons.wikimedia.org/wiki/File:Bracelet_Razan.jpg
+Source/Author Description: Silver bracelet from a Staraya Ryazan treasure, second half of the 12th c. Published in Древняя Русь и славяне, Nauka, 1978.
+License: CC0
+
+staraya-ryazan-treasure.jpg
+Fetched at: 2026-09-08T18:45+04:00
+Fetched by: fetch-figures-agent
+Fetched URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Staraya_Ryazan_treasure_%2813th_c.%2C_GIM%29_by_shakko_01.jpg/1920px-Staraya_Ryazan_treasure_%2813th_c.%2C_GIM%29_by_shakko_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail
+Source page: https://commons.wikimedia.org/wiki/File:Staraya_Ryazan_treasure_(13th_c.,_GIM)_by_shakko_01.jpg
+Source/Author Description: Hoard from the Staraya Ryazan gorodishche: kolty, ryasna, temple rings, first quarter of the 13th c. (before 1237). GIM. Photo shakko.
+License: CC BY-SA 4.0
