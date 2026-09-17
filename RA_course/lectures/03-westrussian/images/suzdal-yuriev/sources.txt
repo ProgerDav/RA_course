@@ -1,0 +1,23 @@
+suzdal-golden-gates.jpg
+Fetched at: 2026-09-17T19:40+04:00
+Fetched by: Codex fetch-figures
+Fetched URL: https://commons.wikimedia.org/wiki/Special:FilePath/Suzdal_Kremlin_-_Golden_Gates_of_the_Church_of_the_Nativity_of_the_Virgin_-_right_leaf.jpg
+Source page: https://commons.wikimedia.org/wiki/File:Suzdal_Kremlin_-_Golden_Gates_of_the_Church_of_the_Nativity_of_the_Virgin_-_right_leaf.jpg
+Source/Author Description: Golden Gates of the Nativity Cathedral, Suzdal Kremlin.
+License: Wikimedia Commons free license/public domain metadata on source page
+
+yuriev-polsky-west.jpg
+Fetched at: 2026-09-17T19:40+04:00
+Fetched by: Codex fetch-figures
+Fetched URL: https://commons.wikimedia.org/wiki/Special:FilePath/Yuriev_Polsky_St_George%27s_Cathedral_07.jpg
+Source page: https://commons.wikimedia.org/wiki/File:Yuriev_Polsky_St_George%27s_Cathedral_07.jpg
+Source/Author Description: St George's Cathedral in Yuriev-Polsky, western facade.
+License: Wikimedia Commons free license/public domain metadata on source page
+
+yuriev-polsky-relief.jpg
+Fetched at: 2026-09-17T19:40+04:00
+Fetched by: Codex fetch-figures
+Fetched URL: https://commons.wikimedia.org/wiki/Special:FilePath/%D0%93%D0%B5%D0%BE%D1%80%D0%B3%D0%B8%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_%D0%B2_%D0%AE%D1%80%D1%8C%D0%B5%D0%B2-%D0%9F%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%BC._%D0%94%D0%B5%D1%82%D0%B0%D0%BB%D1%8C_%D1%84%D0%B0%D1%81%D0%B0%D0%B4%D0%B0_01.jpg
+Source page: https://commons.wikimedia.org/wiki/File:%D0%93%D0%B5%D0%BE%D1%80%D0%B3%D0%B8%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_%D0%B2_%D0%AE%D1%80%D1%8C%D0%B5%D0%B2-%D0%9F%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%BC._%D0%94%D0%B5%D1%82%D0%B0%D0%BB%D1%8C_%D1%84%D0%B0%D1%81%D0%B0%D0%B4%D0%B0_01.jpg
+Source/Author Description: Relief detail from St George's Cathedral in Yuriev-Polsky.
+License: Wikimedia Commons free license/public domain metadata on source page

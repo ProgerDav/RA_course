@@ -1,0 +1,55 @@
+kideksha.jpg
+Fetched at: 2026-09-15T20:48+04:00
+Fetched by: Codex fetch-figures
+Fetched URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Kideksha._Saints_Boris_and_Gleb_Church.jpg/1920px-Kideksha._Saints_Boris_and_Gleb_Church.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+Source page: https://commons.wikimedia.org/wiki/File:Kideksha._Saints_Boris_and_Gleb_Church.jpg
+Source/Author Description: Kideksha. Saints Boris and Gleb Church. Author/artist: Dmitry Makeev. Source/credit: Own work.
+License: CC BY-SA 4.0
+
+assumption-east.jpg
+Fetched at: 2026-09-15T20:48+04:00
+Fetched by: Codex fetch-figures
+Fetched URL: https://upload.wikimedia.org/wikipedia/commons/d/d8/Russia-Vladimir-Assumption_Cathedral-7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+Source page: https://commons.wikimedia.org/wiki/File:Russia-Vladimir-Assumption_Cathedral-7.jpg
+Source/Author Description: Assumption Cathedral. Vladimir, Russia. Author/artist: Alex Zelenko. Source/credit: Photo made by EugeneZelenko's brother, Alex Zelenko..
+License: CC BY-SA 4.0
+
+assumption-interior.jpg
+Fetched at: 2026-09-15T20:48+04:00
+Fetched by: Codex fetch-figures
+Fetched URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Dormition_Cathedral%2C_Vladimir%2C_Russia_-_50398063748.jpg/1920px-Dormition_Cathedral%2C_Vladimir%2C_Russia_-_50398063748.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+Source page: https://commons.wikimedia.org/wiki/File:Dormition_Cathedral,_Vladimir,_Russia_-_50398063748.jpg
+Source/Author Description: Собор Успенский: улица Большая Московская, 56, Владимир, Владимирская область Author/artist: Anton Skrobotov. Source/credit: https://www.flickr.com/photos/askrobotov/50398063748/.
+License: CC BY 2.0
+
+assumption-interior-shakko.jpg
+Fetched at: 2026-09-15T20:48+04:00
+Fetched by: Codex fetch-figures
+Fetched URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Interior_%28Vladimir_Cathedral%29_05_by_shakko.jpg/1920px-Interior_%28Vladimir_Cathedral%29_05_by_shakko.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+Source page: https://commons.wikimedia.org/wiki/File:Interior_(Vladimir_Cathedral)_05_by_shakko.jpg
+Source/Author Description: Успенский собор (Владимир, Россия) Author/artist: Shakko. Source/credit: Own work.
+License: CC BY-SA 4.0
+
+pereslavl-cathedral.jpg
+Fetched at: 2026-09-15T20:50+04:00
+Fetched by: Codex fetch-figures
+Fetched URL: https://upload.wikimedia.org/wikipedia/commons/1/11/Spaso-Preobrazhensky_cathedral_in_Pereslavl-Zalessky_by_V._Plotnikov.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+Source page: https://commons.wikimedia.org/wiki/File:Spaso-Preobrazhensky_cathedral_in_Pereslavl-Zalessky_by_V._Plotnikov.jpeg
+Source/Author Description: Собор Спаса в Переяславле-Залесском Владимирской губернии. Открытка Общества возрождения художественной Руси. Author/artist: Vladimir Alexandrovich Plotnikov (1866-1917). Source/credit: http://leb.nlr.ru/edoc/325844/.
+License: Public domain
+
+kideksha-close.jpg
+Fetched at: 2026-09-15T20:50+04:00
+Fetched by: Codex fetch-figures
+Fetched URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Kideksha_-_Saints_Boris_and_Gleb_Church.jpg/1920px-Kideksha_-_Saints_Boris_and_Gleb_Church.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+Source page: https://commons.wikimedia.org/wiki/File:Kideksha_-_Saints_Boris_and_Gleb_Church.jpg
+Source/Author Description: Kideksha. Saints Boris and Gleb Church. Author/artist: Dmitry Makeev. Source/credit: Own work.
+License: CC BY-SA 4.0
+
+assumption-exterior.jpg
+Fetched at: 2026-09-15T20:50+04:00
+Fetched by: Codex fetch-figures
+Fetched URL: https://upload.wikimedia.org/wikipedia/commons/f/fc/Russia-Vladimir-Assumption_Cathedral-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+Source page: https://commons.wikimedia.org/wiki/File:Russia-Vladimir-Assumption_Cathedral-1.jpg
+Source/Author Description: Assumption Cathedral. Vladimir, Russia. Author/artist: Alex Zelenko. Source/credit: Photo made by EugeneZelenko's brother, Alex Zelenko..
+License: CC BY-SA 4.0

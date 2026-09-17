@@ -1,0 +1,23 @@
+exterior.jpg
+Fetched at: 2026-09-15T21:38+04:00
+Fetched by: Codex fetch-figures
+Fetched URL: https://upload.wikimedia.org/wikipedia/commons/3/3a/St_Demetrius_Church_Vladimir_2016-06-23_6273.jpg
+Source page: https://commons.wikimedia.org/wiki/File:St_Demetrius_Church_Vladimir_2016-06-23_6273.jpg
+Source/Author Description: Cathedral of Saint Demetrius / Dmitrievsky Cathedral in Vladimir. Author/artist: Mike1979 Russia. Source: own work.
+License: CC BY-SA 4.0
+
+relief-detail.jpg
+Fetched at: 2026-09-15T21:38+04:00
+Fetched by: Codex fetch-figures
+Fetched URL: https://upload.wikimedia.org/wikipedia/commons/9/92/%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_%D1%84%D1%80%D0%B0%D0%B3%D0%BC%D0%B5%D0%BD%D1%82.jpg
+Source page: https://commons.wikimedia.org/wiki/File:%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_%D1%84%D1%80%D0%B0%D0%B3%D0%BC%D0%B5%D0%BD%D1%82.jpg
+Source/Author Description: White-stone relief detail of Dmitrievsky Cathedral, Vladimir. Author/artist: Masha.Kondrasheva. Source: own work.
+License: CC BY-SA 4.0
+
+last-judgment.jpg
+Fetched at: 2026-09-15T21:38+04:00
+Fetched by: Codex fetch-figures
+Fetched URL: https://upload.wikimedia.org/wikipedia/commons/4/42/%D0%A4%D1%80%D0%B5%D1%81%D0%BA%D0%B0._%D0%A1%D1%82%D1%80%D0%B0%D1%88%D0%BD%D1%8B%D0%B9_%D1%81%D1%83%D0%B4.jpg
+Source page: https://commons.wikimedia.org/wiki/File:%D0%A4%D1%80%D0%B5%D1%81%D0%BA%D0%B0._%D0%A1%D1%82%D1%80%D0%B0%D1%88%D0%BD%D1%8B%D0%B9_%D1%81%D1%83%D0%B4.jpg
+Source/Author Description: Fresco "Last Judgment" in Dmitrievsky Cathedral, Vladimir. Author/artist: Irina Lyashko / User:Fastriver. Source: own work.
+License: CC BY-SA 3.0

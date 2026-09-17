@@ -1,0 +1,23 @@
+exterior.jpg
+Fetched at: 2026-09-15T20:48+04:00
+Fetched by: Codex fetch-figures
+Fetched URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Saint_Panteleimon_Church%2C_Shevchenkove%2C_Ukraine-6297.jpg/1920px-Saint_Panteleimon_Church%2C_Shevchenkove%2C_Ukraine-6297.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+Source page: https://commons.wikimedia.org/wiki/File:Saint_Panteleimon_Church,_Shevchenkove,_Ukraine-6297.jpg
+Source/Author Description: Saint Panteleimon Church, Shevchenkove, Halych Raion, Ivano-Frankivsk Oblast, Ukraine Author/artist: Raimond Spekking. Source/credit: Own work.
+License: CC BY-SA 4.0
+
+portal.jpg
+Fetched at: 2026-09-15T20:50+04:00
+Fetched by: Codex fetch-figures
+Fetched URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Saint_Panteleimon_Church%2C_Shevchenkove%2C_Ukraine-6264.jpg/1920px-Saint_Panteleimon_Church%2C_Shevchenkove%2C_Ukraine-6264.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+Source page: https://commons.wikimedia.org/wiki/File:Saint_Panteleimon_Church,_Shevchenkove,_Ukraine-6264.jpg
+Source/Author Description: Saint Panteleimon Church, Shevchenkove, Halych Raion, Ivano-Frankivsk Oblast, Ukraine Author/artist: Raimond Spekking. Source/credit: Own work.
+License: CC BY-SA 4.0
+
+detail.jpg
+Fetched at: 2026-09-15T20:50+04:00
+Fetched by: Codex fetch-figures
+Fetched URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Saint_Panteleimon_Church%2C_Shevchenkove%2C_Ukraine-6316.jpg/1920px-Saint_Panteleimon_Church%2C_Shevchenkove%2C_Ukraine-6316.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+Source page: https://commons.wikimedia.org/wiki/File:Saint_Panteleimon_Church,_Shevchenkove,_Ukraine-6316.jpg
+Source/Author Description: Saint Panteleimon Church, Shevchenkove, Halych Raion, Ukraine Author/artist: Raimond Spekking. Source/credit: Own work.
+License: CC BY-SA 4.0

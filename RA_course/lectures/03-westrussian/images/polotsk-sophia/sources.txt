@@ -1,0 +1,31 @@
+plan.jpg
+Fetched at: 2026-09-15T20:48+04:00
+Fetched by: Codex fetch-figures
+Fetched URL: https://upload.wikimedia.org/wikipedia/commons/d/d4/Po%C5%82acak%2C_Vierchni_Zamak%2C_Sabornaja._%D0%9F%D0%BE%D0%BB%D0%B0%D1%86%D0%B0%D0%BA%2C_%D0%92%D0%B5%D1%80%D1%85%D0%BD%D1%96_%D0%97%D0%B0%D0%BC%D0%B0%D0%BA%2C_%D0%A1%D0%B0%D0%B1%D0%BE%D1%80%D0%BD%D0%B0%D1%8F_%28I._Choziera%C5%AD%2C_1927%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+Source page: https://commons.wikimedia.org/wiki/File:Po%C5%82acak,_Vierchni_Zamak,_Sabornaja._%D0%9F%D0%BE%D0%BB%D0%B0%D1%86%D0%B0%D0%BA,_%D0%92%D0%B5%D1%80%D1%85%D0%BD%D1%96_%D0%97%D0%B0%D0%BC%D0%B0%D0%BA,_%D0%A1%D0%B0%D0%B1%D0%BE%D1%80%D0%BD%D0%B0%D1%8F_(I._Choziera%C5%AD,_1927).jpg
+Source/Author Description: Полацак (Połacak), Верхні Замак (Vierchni Zamak). Царква саборная Сьвятой Соф'і, плян Author/artist: І. Хозераў. Source/credit: Хозераў І. Полацкае будаўніцтва старадаўняга перыяду // Запіскі аддзела гуманітарных навук БАН. Кн. 6. Працы камісіі гісторыі мастацтва. Т. 1, сш. 1. — Менск, 1928. С. 9..
+License: Public domain
+
+reconstruction-model.jpg
+Fetched at: 2026-09-15T20:48+04:00
+Fetched by: Codex fetch-figures
+Fetched URL: https://upload.wikimedia.org/wikipedia/commons/b/b7/St._Sophia_Cathedral_in_Polotsk_-_Miniature.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+Source page: https://commons.wikimedia.org/wiki/File:St._Sophia_Cathedral_in_Polotsk_-_Miniature.JPG
+Source/Author Description: This is a photo of Belarusian heritage monument. Reference number: Author/artist: Da voli. Source/credit: Own work.
+License: CC BY-SA 3.0
+
+exterior-baroque.jpg
+Fetched at: 2026-09-15T20:48+04:00
+Fetched by: Codex fetch-figures
+Fetched URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/%D0%A1%D0%BE%D1%84%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_%D0%B2_%D0%9F%D0%BE%D0%BB%D0%BE%D1%86%D0%BA%D0%B5_2.jpg/1920px-%D0%A1%D0%BE%D1%84%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_%D0%B2_%D0%9F%D0%BE%D0%BB%D0%BE%D1%86%D0%BA%D0%B5_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+Source page: https://commons.wikimedia.org/wiki/File:%D0%A1%D0%BE%D1%84%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_%D0%B2_%D0%9F%D0%BE%D0%BB%D0%BE%D1%86%D0%BA%D0%B5_2.jpg
+Source/Author Description: Софийский собор в Полоцке (XI – XVIII вв.) Author/artist: Виктор Мелешко. Source/credit: Own work.
+License: CC BY-SA 4.0
+
+masonry-11c.jpg
+Fetched at: 2026-09-15T20:48+04:00
+Fetched by: Codex fetch-figures
+Fetched URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/%D0%9F%D0%BE%D0%BB%D0%B0%D1%86%D0%BA%D0%B0%D1%8F_%D0%A1%D0%B0%D1%84%D1%96%D1%8F._%D0%A0%D0%B0%D1%81%D0%BA%D1%80%D1%8B%D1%86%D1%86%D1%96_%2801%29.jpg/1920px-%D0%9F%D0%BE%D0%BB%D0%B0%D1%86%D0%BA%D0%B0%D1%8F_%D0%A1%D0%B0%D1%84%D1%96%D1%8F._%D0%A0%D0%B0%D1%81%D0%BA%D1%80%D1%8B%D1%86%D1%86%D1%96_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+Source page: https://commons.wikimedia.org/wiki/File:%D0%9F%D0%BE%D0%BB%D0%B0%D1%86%D0%BA%D0%B0%D1%8F_%D0%A1%D0%B0%D1%84%D1%96%D1%8F._%D0%A0%D0%B0%D1%81%D0%BA%D1%80%D1%8B%D1%86%D1%86%D1%96_(01).jpg
+Source/Author Description: Полацкая Сафія. Раскрыцці Author/artist: Чаховіч Уладзіслаў. Source/credit: Own work.
+License: CC BY-SA 3.0

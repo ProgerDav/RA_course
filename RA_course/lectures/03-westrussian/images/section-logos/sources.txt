@@ -1,0 +1,7 @@
+sobor.png
+Fetched at: 2026-09-15T20:48+04:00
+Fetched by: Codex fetch-figures
+Fetched URL: local copy from lectures/02-architecture/images/section-logos/sobor.png
+Source page: local course asset
+Source/Author Description: Section logo reused from lecture 02 course assets.
+License: Local course asset
