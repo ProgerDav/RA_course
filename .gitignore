@@ -54,3 +54,5 @@ RA_course/lectures/**/images/**/*.bmp
 RA_course/lectures/**/images/**/*.tiff
 RA_course/lectures/**/images/**/*.ico
 RA_course/lectures/**/images/**/*.webp
+
+.DS_Store
