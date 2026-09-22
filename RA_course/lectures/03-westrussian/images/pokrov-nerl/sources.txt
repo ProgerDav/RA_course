@@ -3,7 +3,7 @@ Fetched at: 2026-09-15T21:38+04:00
 Fetched by: Codex fetch-figures
 Fetched URL: https://upload.wikimedia.org/wikipedia/commons/6/69/Bogolyubovo_asv2019-01_img02_Intercession_Church.jpg
 Source page: https://commons.wikimedia.org/wiki/File:Bogolyubovo_asv2019-01_img02_Intercession_Church.jpg
-Source/Author Description: Church of the Intercession on the Nerl in Bogolyubovo near Vladimir. Author/artist: A.Savin. Source: own work.
+Source/Author Description: Church of the Intercession on the Nerl in Bogolyubovo near Vladimir. Source: own work.
 License: Free Art License
 
 sculptures.jpg
@@ -11,5 +11,5 @@ Fetched at: 2026-09-15T21:38+04:00
 Fetched by: Codex fetch-figures
 Fetched URL: https://upload.wikimedia.org/wikipedia/commons/4/42/Church_of_the_Intercession_of_the_Holy_Virgin_on_Nerl_River_Sculptures.JPG
 Source page: https://commons.wikimedia.org/wiki/File:Church_of_the_Intercession_of_the_Holy_Virgin_on_Nerl_River_Sculptures.JPG
-Source/Author Description: Reliefs / white-stone carving on the Church of the Intercession on the Nerl. Author/artist: Daphne mesereum. Source: own work.
+Source/Author Description: Reliefs / white-stone carving on the Church of the Intercession on the Nerl. Source: own work.
 License: CC BY-SA 4.0

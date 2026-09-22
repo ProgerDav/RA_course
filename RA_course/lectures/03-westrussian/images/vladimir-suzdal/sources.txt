@@ -27,7 +27,7 @@ Fetched at: 2026-09-15T20:48+04:00
 Fetched by: Codex fetch-figures
 Fetched URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Interior_%28Vladimir_Cathedral%29_05_by_shakko.jpg/1920px-Interior_%28Vladimir_Cathedral%29_05_by_shakko.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 Source page: https://commons.wikimedia.org/wiki/File:Interior_(Vladimir_Cathedral)_05_by_shakko.jpg
-Source/Author Description: Успенский собор (Владимир, Россия) Author/artist: Shakko. Source/credit: Own work.
+Source/Author Description: Успенский собор (Владимир, Россия). Source/credit: Own work.
 License: CC BY-SA 4.0
 
 pereslavl-cathedral.jpg

@@ -11,7 +11,7 @@ Fetched at: 2026-09-15T20:48+04:00
 Fetched by: Codex fetch-figures
 Fetched URL: https://upload.wikimedia.org/wikipedia/commons/b/b7/St._Sophia_Cathedral_in_Polotsk_-_Miniature.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
 Source page: https://commons.wikimedia.org/wiki/File:St._Sophia_Cathedral_in_Polotsk_-_Miniature.JPG
-Source/Author Description: This is a photo of Belarusian heritage monument. Reference number: Author/artist: Da voli. Source/credit: Own work.
+Source/Author Description: This is a photo of Belarusian heritage monument. Reference number: Source/credit: Own work.
 License: CC BY-SA 3.0
 
 exterior-baroque.jpg

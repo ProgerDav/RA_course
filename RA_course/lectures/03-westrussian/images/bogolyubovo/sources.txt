@@ -11,5 +11,5 @@ Fetched at: 2026-09-15T21:38+04:00
 Fetched by: Codex fetch-figures
 Fetched URL: https://upload.wikimedia.org/wikipedia/commons/2/24/Ch%C3%A2teau_de_Bogolioubovo_%28_Ra%C3%AFon_de_Vladimir%29_Russie_escalier_de_la_tour.JPG
 Source page: https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_de_Bogolioubovo_(_Ra%C3%AFon_de_Vladimir)_Russie_escalier_de_la_tour.JPG
-Source/Author Description: Staircase in the tower of the Bogolyubovo palace/castle. Author/artist: Mortier.Daniel. Source: own work.
+Source/Author Description: Staircase in the tower of the Bogolyubovo palace/castle. Source: own work.
 License: CC BY-SA 4.0

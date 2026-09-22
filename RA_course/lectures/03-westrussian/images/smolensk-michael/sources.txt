@@ -3,7 +3,7 @@ Fetched at: 2026-09-15T20:48+04:00
 Fetched by: Codex fetch-figures
 Fetched URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Svirskaya_Church_%28Smolensk%3B_2013-11-08%29_03.JPG/1920px-Svirskaya_Church_%28Smolensk%3B_2013-11-08%29_03.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 Source page: https://commons.wikimedia.org/wiki/File:Svirskaya_Church_(Smolensk;_2013-11-08)_03.JPG
-Source/Author Description: Svirskaya Church (Smolensk; 2013-11-08) Author/artist: Krassotkin. Source/credit: Own work.
+Source/Author Description: Svirskaya Church (Smolensk; 2013-11-08). Source/credit: Own work.
 License: CC0
 
 side-view.jpg
@@ -11,7 +11,7 @@ Fetched at: 2026-09-15T20:48+04:00
 Fetched by: Codex fetch-figures
 Fetched URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Svirskaya_Church_%28Smolensk%3B_2013-11-08%29_05.JPG/1920px-Svirskaya_Church_%28Smolensk%3B_2013-11-08%29_05.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 Source page: https://commons.wikimedia.org/wiki/File:Svirskaya_Church_(Smolensk;_2013-11-08)_05.JPG
-Source/Author Description: Svirskaya Church (Smolensk; 2013-11-08) Author/artist: Krassotkin. Source/credit: Own work.
+Source/Author Description: Svirskaya Church (Smolensk; 2013-11-08). Source/credit: Own work.
 License: CC0
 
 apse-view.jpg
@@ -19,5 +19,5 @@ Fetched at: 2026-09-15T20:48+04:00
 Fetched by: Codex fetch-figures
 Fetched URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Svirskaya_Church_%28Smolensk%3B_2013-11-08%29_19.JPG/1920px-Svirskaya_Church_%28Smolensk%3B_2013-11-08%29_19.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 Source page: https://commons.wikimedia.org/wiki/File:Svirskaya_Church_(Smolensk;_2013-11-08)_19.JPG
-Source/Author Description: Svirskaya Church (Smolensk; 2013-11-08) Author/artist: Krassotkin. Source/credit: Own work.
+Source/Author Description: Svirskaya Church (Smolensk; 2013-11-08). Source/credit: Own work.
 License: CC0

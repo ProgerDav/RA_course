@@ -3,5 +3,5 @@ Fetched at: 2026-09-15T21:38+04:00
 Fetched by: Codex fetch-figures
 Fetched URL: https://upload.wikimedia.org/wikipedia/commons/b/b9/Golden_Gate_Vladimir_2016-06-23_6326.jpg
 Source page: https://commons.wikimedia.org/wiki/File:Golden_Gate_Vladimir_2016-06-23_6326.jpg
-Source/Author Description: Golden Gate in Vladimir. Author/artist: Mike1979 Russia. Source: own work.
+Source/Author Description: Golden Gate in Vladimir. Source: own work.
 License: CC BY-SA 4.0
