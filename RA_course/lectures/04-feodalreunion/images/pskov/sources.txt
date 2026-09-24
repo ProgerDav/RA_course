@@ -1,0 +1,15 @@
+trinity-cathedral.jpg
+Fetched at: 2026-09-22T13:20+04:00
+Fetched by: Codex fetch-figures
+Fetched URL: https://commons.wikimedia.org/wiki/Special:FilePath/The_Holy_Trinity_Cathedral_in_Pskov_Kremlin.jpg?width=1600
+Source page: https://commons.wikimedia.org/wiki/File:The_Holy_Trinity_Cathedral_in_Pskov_Kremlin.jpg
+Source/Author Description: Holy Trinity Cathedral in the Pskov Kremlin.
+License: CC BY-SA 3.0
+
+snetogorsky-cathedral.jpg
+Fetched at: 2026-09-22T13:20+04:00
+Fetched by: Codex fetch-figures
+Fetched URL: https://commons.wikimedia.org/wiki/Special:FilePath/Pskov_asv07-2018_various18_SnetogorskyM.jpg?width=1600
+Source page: https://commons.wikimedia.org/wiki/File:Pskov_asv07-2018_various18_SnetogorskyM.jpg
+Source/Author Description: Cathedral of the Nativity of the Theotokos, Snetogorsky Monastery, Pskov.
+License: Free Art License

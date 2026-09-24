@@ -1,0 +1,31 @@
+battle-novgorod-suzdal-detail.jpg
+Fetched at: 2026-09-22T13:20+04:00
+Fetched by: Codex fetch-figures
+Fetched URL: https://commons.wikimedia.org/wiki/Special:FilePath/Battle_between_Novgorod_and_Suzdal_%28icon%29_detail_01.jpg?width=1600
+Source page: https://commons.wikimedia.org/wiki/File:Battle_between_Novgorod_and_Suzdal_(icon)_detail_01.jpg
+Source/Author Description: Detail of the icon "Battle between Novgorod and Suzdal", XV century.
+License: CC BY-SA 3.0
+
+saint-george-life.jpg
+Fetched at: 2026-09-22T13:20+04:00
+Fetched by: Codex fetch-figures
+Fetched URL: https://commons.wikimedia.org/wiki/Special:FilePath/Unknow_-_Miracle_of_St_George_and_the_Dragon,_with_Scenes_from_his_Life._Novgorod_-_Google_Art_Project.jpg?width=1600
+Source page: https://commons.wikimedia.org/wiki/File:Unknow_-_Miracle_of_St_George_and_the_Dragon,_with_Scenes_from_his_Life._Novgorod_-_Google_Art_Project.jpg
+Source/Author Description: Miracle of St George and the Dragon, with scenes from his life, Novgorod, first half of the XIV century; Russian Museum / Google Art Project.
+License: Public domain
+
+george-15c.jpg
+Fetched at: 2026-09-22T13:20+04:00
+Fetched by: Codex fetch-figures
+Fetched URL: https://commons.wikimedia.org/wiki/Special:FilePath/Georges_icon.jpg?width=1600
+Source page: https://commons.wikimedia.org/wiki/File:Georges_icon.jpg
+Source/Author Description: Saint George icon, Novgorod icon-painting school, XV century.
+License: Wikimedia Commons free license/public domain metadata on source page
+
+miracle-florus-laurus.jpg
+Fetched at: 2026-09-22T13:20+04:00
+Fetched by: Codex fetch-figures
+Fetched URL: https://commons.wikimedia.org/wiki/Special:FilePath/Miracle_of_Saints_Florus_and_Laurus,_Russian_Icon.jpg?width=1600
+Source page: https://commons.wikimedia.org/wiki/File:Miracle_of_Saints_Florus_and_Laurus,_Russian_Icon.jpg
+Source/Author Description: Miracle of Saints Florus and Laurus, Russian icon.
+License: Wikimedia Commons free license/public domain metadata on source page
