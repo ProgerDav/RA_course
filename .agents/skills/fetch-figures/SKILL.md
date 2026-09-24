@@ -52,3 +52,4 @@ Source information is important, since it will be used to credit the author and 
 ## Source preferences
 
 Prefer sources that are credible and authoritative, such as Wikipedia, legit Museum websites, etc. Generally, avoid using other random websites directly, rather fetch figures from the original sources they reference, if available.
+For finding maps, prefer ones with clear annotations BUT those that are not too cluttered, since small annotations are difficult from the board. Sources such as Russian official textbooks or websites with articles/learning materials are the preferred ones.
