@@ -38,6 +38,7 @@
 
 # Output
 
+.scratch
 *.sty
 doc/metropolistheme.pdf
 RA_course/lectures.pdf

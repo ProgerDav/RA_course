@@ -12,6 +12,9 @@ PACKAGE_SRC = $(wildcard source/*.dtx)
 PACKAGE_STY = $(notdir $(PACKAGE_SRC:%.dtx=%.sty))
 TARGET_SRC  = RA_course/lectures.tex RA_course/references.bib $(LECTURE_INPUTS) $(FONT_FILES) $(COURSE_ASSETS)
 TARGET_PDF  = RA_course/lectures.pdf
+BOOKLETS_DIR = RA_course/exam_content
+BOOKLETS_PDF = $(BOOKLETS_DIR)/booklets.pdf
+BOOKLETS_INPUTS = $(BOOKLETS_DIR)/booklets.tex $(wildcard $(BOOKLETS_DIR)/fonts/*)
 DOC_SRC     = doc/metropolistheme.dtx
 DOC_PDF     = doc/metropolistheme.pdf
 
@@ -36,7 +39,7 @@ ifneq ($(wildcard /.dockerenv),)
   IN_DOCKER := 1
 endif
 
-.PHONY: all sty doc lectures lectures-local clean install uninstall ctan clean-cache clean-sty ctan-version docker-run docker-build docker-rm
+.PHONY: all sty doc lectures lectures-local booklets booklets-local clean install uninstall ctan clean-cache clean-sty ctan-version docker-run docker-build docker-rm
 
 all: sty doc
 
@@ -58,6 +61,28 @@ lectures: docker-build
 endif
 
 lectures-local: $(TARGET_PDF)
+
+# Prefer a local TeX installation; otherwise use the project's Docker image.
+# Everything needed by the document is contained in BOOKLETS_DIR.
+ifeq ($(IN_DOCKER),1)
+booklets: booklets-local
+else ifneq ($(shell command -v latexmk 2>/dev/null),)
+booklets: booklets-local
+else
+booklets: docker-build
+	docker run --rm \
+		-u "$(shell id -u):$(shell id -g)" \
+		-e HOME=/tmp \
+		-e IN_DOCKER=1 \
+		-v "$(CURDIR)/$(BOOKLETS_DIR)":/data \
+		$(DOCKER_IMAGE) \
+		latexmk -xelatex -interaction=nonstopmode -halt-on-error booklets.tex
+endif
+
+booklets-local: $(BOOKLETS_PDF)
+
+$(BOOKLETS_PDF): $(BOOKLETS_INPUTS)
+	cd $(BOOKLETS_DIR) && latexmk -xelatex -interaction=nonstopmode -halt-on-error booklets.tex
 
 clean: clean-cache clean-sty
 
